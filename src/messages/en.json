@@ -121,6 +121,7 @@
   "route": {
     "title": "Recommended Route",
     "overview": "Start from Metro Line A Hradčanská station, walk uphill to Letná Park. First head to the viewpoint to enjoy the panoramic view of Prague Castle and Vltava River, then stroll along the tree-shaded paths in the park and visit the giant Metronome sculpture. In the afternoon, you can relax at Letná Beer Garden and taste Czech beer. If time permits, you can continue to nearby Prague Castle or the Old Town. Standard visit takes 2-3 hours.",
+    "stepsTitle": "Route Steps",
     "steps": [
       "Depart from Hradčanská Metro station, walk uphill to Letná Park",
       "After arriving at the park, first head to the main viewpoint to enjoy the panoramic view of Prague Castle",
@@ -131,6 +132,7 @@
       "Return to the viewpoint before sunset to capture the beautiful sunset of Prague skyline",
       "Walk down the hill to continue exploring the Old Town or Prague Castle"
     ],
+    "supplementsTitle": "Additional Tips",
     "supplements": [
       "The park has considerable slopes; wear comfortable walking shoes",
       "Summer UV rays are strong; take sun protection measures",

@@ -20,9 +20,7 @@ export default function RouteSection() {
 
         <div className="space-y-4 mb-8">
           <h3 className="font-medium" style={{ color: 'var(--text-primary)' }}>
-            {typeof window !== 'undefined' ? 
-              (new URLSearchParams(window.location.search).get('locale') === 'en' ? 'Route Steps' : '游览步骤') 
-              : '游览步骤'}
+            {t('stepsTitle')}
           </h3>
           {(t.raw('steps') as string[]).map((step, i) => (
             <div key={i} className="flex gap-4">
@@ -36,9 +34,7 @@ export default function RouteSection() {
 
         <div className="p-6 rounded-xl" style={{ background: 'var(--bg-tertiary)' }}>
           <h4 className="font-medium mb-3" style={{ color: 'var(--text-primary)' }}>
-            {typeof window !== 'undefined' ?
-              (new URLSearchParams(window.location.search).get('locale') === 'en' ? 'Additional Tips' : '补充说明')
-              : '补充说明'}
+            {t('supplementsTitle')}
           </h4>
           <ul className="space-y-2">
             {(t.raw('supplements') as string[]).map((item, i) => (
