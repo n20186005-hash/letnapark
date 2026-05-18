@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "title": "Letná Park｜Prague's Best City Park & Viewpoint - Czech Travel Guide",
+    "description": "Complete guide to Letná Park in Prague. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Prague's most famous city park with amazing views of Prague Castle and Old Town."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Letná Park",
+    "subtitle": "Prague's Most Beautiful City Park Overlooking Vltava River & Prague Castle",
+    "rating": "4.7",
+    "reviewCount": "28,799 reviews",
+    "hours": "Open 24/7",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover Letná Park",
+    "description": "Letná Park (Letenské sady) is one of Prague's most iconic city parks, situated on the Letná hill along the eastern bank of the Vltava River. The park's viewpoint offers breathtaking panoramic views of Prague Castle, the Old Town bridges, and the meandering Vltava River, making it the perfect spot for photographing Prague's skyline.\n\nThe park is shaded by lush trees and features expansive lawns, making it a favorite relaxation spot for Prague residents. Here you'll find not only beautiful natural scenery but also the famous Letná Beer Garden, where you can enjoy Czech beer while taking in spectacular city views.\n\nThe park also preserves the giant Metronome sculpture left from the Soviet era, which has become a unique historical landmark. Whether you want to take a leisurely stroll, capture beautiful photos, or experience Czech beer culture, Letná Park is a must-visit destination.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Spring and autumn offer pleasant weather, ideal for visiting",
+        "Park admission is free, no tickets required",
+        "Sunset at the viewpoint offers the most spectacular Prague skyline views",
+        "Beer garden is perfect for afternoon relaxation and experiencing Czech beer culture",
+        "Recommended to allocate 2-3 hours for a leisurely visit"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Best city viewpoint in Prague",
+        "Home to the famous Letná Beer Garden",
+        "Giant Metronome sculpture from the Soviet era",
+        "Stunning views of Vltava River and Prague Castle"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "The Charm of Letná Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Changes",
+        "content": "The history of the Letná area dates back centuries and has long been an important recreation spot for Prague citizens. During the Communist era, a massive 15-meter Stalin statue stood here but was demolished in 1962. Today, a giant Metronome sculpture stands at the original site, becoming a unique historical landmark of the area. Over time, Letná Park has gradually developed into one of Prague's most important city parks, attracting countless visitors to enjoy Prague's magnificent scenery."
+      },
+      {
+        "id": "architecture",
+        "title": "Landscape Features",
+        "content": "Letná Park is uniquely situated on a hill, offering a privileged geographic location. The park's viewpoint is the best place to admire Prague's skyline, offering views of Prague Castle, Charles Bridge, and the Old Town bridge cluster. The park is shaded by lush trees, with large lawns suitable for picnics and recreational activities. The famous Letná Beer Garden is one of Central Europe's largest beer gardens, where outdoor seating allows you to enjoy Czech beer while taking in the beautiful city scenery."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "Letná Park is not only a daily recreation spot for Prague citizens but also an important cultural landmark. The giant Metronome sculpture has become a collective memory for a generation, symbolizing the changes of eras. Every summer, various cultural events and music festivals are held in the park. This is an excellent place to experience local Prague life, where you can observe Prague residents' daily leisure lifestyle and feel the city's unique cultural atmosphere."
+      },
+      {
+        "id": "experience",
+        "title": "Core Experience",
+        "content": "At Letná Park, the most unforgettable experience is admiring Prague's sunset from the viewpoint. When the sun sets, Prague Castle and the red-roofed buildings of the Old Town look especially beautiful against the golden sunlight. The beer garden is an excellent place to experience Czech beer culture, where you can drink and chat with locals. The park also has children's playgrounds, jogging trails, and other facilities, making it suitable for family outings. When cherry blossoms bloom in spring and maple leaves turn red in autumn, the park presents different charming scenary."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Letná Park (Letenské sady)",
+    "type": "Attraction Type",
+    "typeValue": "City Park, Viewpoint, Recreation Green Space",
+    "country": "Country",
+    "countryValue": "Czech Republic",
+    "city": "City",
+    "cityValue": "Prague",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.7/5 (28,799)",
+    "address": "Address",
+    "addressValue": "Letenská pláň, 170 00 Prague 7, Czechia"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Outdoor Area",
+    "outdoorTime": "Open 24/7, year-round",
+    "beerGarden": "Letná Beer Garden",
+    "beerGardenTime": "Summer 12:00-23:00, Winter 12:00-22:00",
+    "tip": "Recommended to visit during daytime; sunset offers the most spectacular views"
+  },
+  "tickets": {
+    "title": "Ticket Prices",
+    "outdoor": "Park Outdoor Area",
+    "outdoorPrice": "Free admission, no entry fee",
+    "beerGarden": "Letná Beer Garden",
+    "beerGardenPrice": "Free entry, pay for consumption",
+    "note": "Park is completely free; beer garden consumption as needed"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "metro": "Metro (Recommended)",
+    "metroDesc": "Take Metro Line A to Hradčanská station, then walk about 10 minutes to the park entrance. This is the most convenient transportation option.",
+    "tram": "Tram",
+    "tramDesc": "Take tram routes 1, 8, 12, 25, 26 to Letenské náměstí station, then walk 5 minutes to arrive.",
+    "walking": "Walking",
+    "walkingDesc": "Walk from Old Town about 20-30 minutes, enjoying Vltava River scenery along the way.",
+    "cycling": "Cycling",
+    "cyclingDesc": "Prague city offers bike-sharing, cycling to the park is very convenient, and there are bike paths within the park.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Recommended to combine metro and walking; walking uphill from Hradčanská station offers scenic views along the way. Avoid peak hours on summer weekends."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Start from Metro Line A Hradčanská station, walk uphill to Letná Park. First head to the viewpoint to enjoy the panoramic view of Prague Castle and Vltava River, then stroll along the tree-shaded paths in the park and visit the giant Metronome sculpture. In the afternoon, you can relax at Letná Beer Garden and taste Czech beer. If time permits, you can continue to nearby Prague Castle or the Old Town. Standard visit takes 2-3 hours.",
+    "steps": [
+      "Depart from Hradčanská Metro station, walk uphill to Letná Park",
+      "After arriving at the park, first head to the main viewpoint to enjoy the panoramic view of Prague Castle",
+      "Stroll along the park paths and enjoy the relaxing environment shaded by trees",
+      "Visit the giant Metronome sculpture left from the Soviet era",
+      "Enjoy lunch or afternoon tea at Letná Beer Garden, tasting Czech beer",
+      "Rest on the lawn and observe the leisure lifestyle of local people",
+      "Return to the viewpoint before sunset to capture the beautiful sunset of Prague skyline",
+      "Walk down the hill to continue exploring the Old Town or Prague Castle"
+    ],
+    "supplements": [
+      "The park has considerable slopes; wear comfortable walking shoes",
+      "Summer UV rays are strong; take sun protection measures",
+      "Beer garden prices are reasonable and accept credit card payment",
+      "It's windy near the viewpoint; bring a jacket",
+      "Public toilets are available in the park, near the beer garden"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Main Viewpoint",
+        "desc": "Perfect spot to photograph Prague Castle, Charles Bridge and Old Town panorama"
+      },
+      {
+        "name": "Metronome Sculpture",
+        "desc": "Unique modernist sculpture with Prague city scenery as background"
+      },
+      {
+        "name": "Beer Garden Terrace",
+        "desc": "Drink beer while photographing city scenery, full of atmosphere"
+      },
+      {
+        "name": "Park Lawn",
+        "desc": "Tree-shaded lawn, suitable for photographing casual and natural style photos"
+      },
+      {
+        "name": "Vltava River View",
+        "desc": "Overlook the meandering Vltava River and riverside scenery from the park's high ground"
+      }
+    ],
+    "tips": "Photography Tips",
+    "tipsContent": "Sunset is the golden time for photography; Prague Castle presents charming golden colors under the sunset. Cherry blossoms in spring add a romantic atmosphere to the park. It's recommended to bring a telephoto lens for city panoramas and a wide-angle lens for park scenery. Weekends are crowded; visit on weekdays to capture empty scenes."
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {
+        "name": "Letná Boutique Hotel",
+        "desc": "Located near the park, walking distance, quiet environment, some rooms have park views",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Old Town Historic Hotel",
+        "desc": "Walk to Letná Park about 20 minutes, superior location, suitable for visiting Prague's main attractions",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Vltava Riverside Hotel",
+        "desc": "River view rooms offer beautiful river scenery, walking distance to park about 15 minutes",
+        "price": "Price varies by season"
+      },
+      {
+        "name": "Budget Hostel",
+        "desc": "Good value for money, suitable for backpackers, 10 minutes walk to the park",
+        "price": "Price varies by season"
+      }
+    ],
+    "supplements": "Accommodation Tips",
+    "supplementsContent": "Prague accommodation is tight during tourist peak season (summer, Christmas market period); book in advance. Letná area accommodation is more affordable than the Old Town, and the environment is quieter. If you plan to visit Letná Park multiple times, consider staying nearby."
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Letná Park Scenery, City Skyline & Beer Garden",
+    "captions": [
+      "Letná Park Panoramic View",
+      "Prague Castle View",
+      "Letná Beer Garden",
+      "Vltava River Scenery",
+      "Giant Metronome Sculpture",
+      "Park Tree-shaded Path",
+      "City Viewpoint",
+      "Sunset Moment",
+      "Park Lawn Recreation",
+      "Prague Skyline",
+      "Spring Cherry Blossoms",
+      "Children's Playground"
+    ],
+    "viewAll": "View on Google Maps"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Ming Z.",
+        "date": "April 2026",
+        "rating": 5,
+        "text": "One of the most worth-visiting places in Prague! The view from the viewpoint is stunning, with Prague Castle and Charles Bridge all in sight. The beer garden atmosphere is also super great, strongly recommend visiting at sunset."
+      },
+      {
+        "name": "Hua L.",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "A free park, but the scenery is not compromised at all. The Metronome sculpture is cool and full of historical sense. Beer garden prices are reasonable, and you can enjoy the scenery while drinking. So pleasant."
+      },
+      {
+        "name": "Fang W.",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "A photography holy land! Every angle makes a great photo. Recommended to go in the evening; Prague at sunset is incredibly beautiful. The park is large, suitable for slow exploring, allocate half a day."
+      },
+      {
+        "name": "Wei C.",
+        "date": "January 2026",
+        "rating": 5,
+        "text": "A hidden gem of Prague. Compared to the overcrowded Old Town, it's much more refreshing here. Locals have picnics on the lawn and sunbathe, full of life atmosphere. Definitely go sit at the beer garden."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "Letenská pláň, 170 00 Prague 7, Czechia",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Letná Park Independent Travel Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "pragueCity": "Prague City",
+      "pragueTourism": "Prague Tourism",
+      "czechRepublic": "Czech Republic",
+      "czechEnvironment": "Czech Environment",
+      "czechTourism": "Czech Tourism"
+    },
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Letná Park",
+    "text": "Letná Park (Letenské sady) is managed and maintained by the Prague City Parks Administration and is one of Prague's most important city parks.\n\nAs Prague's most representative urban green space, Letná Park not only provides citizens with high-quality recreational space but also serves as the best location to enjoy Prague's city scenery. The viewpoint in the park attracts countless visitors to photograph the beautiful scenery of Prague Castle and the Vltava River. Today, Letná Park has become an indispensable tourist destination in Prague, carrying the cultural memory of the city and the daily recreational life of its citizens."
+  },
+  "recommendations": {
+    "title": "Discover More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours & Activities",
+    "attractions": [
+      {"name": "Prague Castle", "url": "https://prague.eu/en"},
+      {"name": "Charles Bridge", "url": "https://prague.eu/en"},
+      {"name": "Old Town Square", "url": "https://prague.eu/en"},
+      {"name": "Vltava River Cruise", "url": "https://www.visitczechia.com/"}
+    ],
+    "tours": [
+      {"name": "Prague City Walking Tour", "url": "https://www.visitczechia.com/"},
+      {"name": "Castle District Deep Tour", "url": "https://prague.eu/en"},
+      {"name": "Vltava River Cruise", "url": "https://www.visitczechia.com/"},
+      {"name": "Czech Beer Culture Experience", "url": "https://www.visitczechia.com/"}
+    ]
+  }
+}
