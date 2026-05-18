@@ -22,9 +22,14 @@ export default function Gallery() {
 
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           {captions.map((caption, i) => (
-            <div key={i} className="gallery-item aspect-square rounded-lg overflow-hidden" style={{ background: 'var(--bg-tertiary)' }}>
-              <div className="w-full h-full flex items-center justify-center p-4">
-                <span className="text-sm text-center" style={{ color: 'var(--text-secondary)' }}>{caption}</span>
+            <div key={i} className="gallery-item aspect-square rounded-lg overflow-hidden relative group" style={{ background: 'var(--bg-tertiary)' }}>
+              <img
+                src={`/gallery/images (${i + 1}).jpg`}
+                alt={caption}
+                className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-4">
+                <span className="text-sm text-white font-medium">{caption}</span>
               </div>
             </div>
           ))}

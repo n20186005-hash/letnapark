@@ -36,24 +36,9 @@ export default function HoursSection() {
               </svg>
             </div>
             <div>
-              <h3 className="font-medium mb-1" style={{ color: 'var(--text-primary)' }}>{t('lighthouse')}</h3>
+              <h3 className="font-medium mb-1" style={{ color: 'var(--text-primary)' }}>{t('beerGarden')}</h3>
               <div className="space-y-1" style={{ color: 'var(--text-secondary)' }}>
-                <p><span style={{ color: 'var(--text-muted)' }}>{t('summer')}:</span> {t('summerTime')}</p>
-                <p><span style={{ color: 'var(--text-muted)' }}>{t('winter')}:</span> {t('winterTime')}</p>
-              </div>
-            </div>
-          </div>
-
-          <div className="p-4 rounded-lg border" style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}>
-            <div className="flex items-start gap-3">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="2" className="flex-shrink-0 mt-0.5">
-                <circle cx="12" cy="12" r="10"/>
-                <line x1="12" y1="8" x2="12" y2="12"/>
-                <line x1="12" y1="16" x2="12.01" y2="16"/>
-              </svg>
-              <div>
-                <h4 className="font-medium mb-1" style={{ color: 'var(--text-primary)' }}>{t('warning')}</h4>
-                <p style={{ color: 'var(--text-secondary)' }}>{t('warningTime')}</p>
+                <p>{t('beerGardenTime')}</p>
               </div>
             </div>
           </div>

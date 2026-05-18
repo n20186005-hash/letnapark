@@ -34,20 +34,11 @@ export default function TicketsSection() {
                 <line x1="8" y1="2" x2="8" y2="6"/>
                 <line x1="3" y1="10" x2="21" y2="10"/>
               </svg>
-              <h3 className="text-lg font-medium" style={{ color: 'var(--text-primary)' }}>{t('lighthouse')}</h3>
+              <h3 className="text-lg font-medium" style={{ color: 'var(--text-primary)' }}>{t('beerGarden')}</h3>
             </div>
             <div className="space-y-2">
               <div className="flex justify-between">
-                <span style={{ color: 'var(--text-secondary)' }}>{t('adults')}</span>
-                <span style={{ color: 'var(--text-primary)' }}>{t('adultsPrice')}</span>
-              </div>
-              <div className="flex justify-between">
-                <span style={{ color: 'var(--text-secondary)' }}>{t('students')}</span>
-                <span style={{ color: 'var(--text-primary)' }}>{t('studentsPrice')}</span>
-              </div>
-              <div className="flex justify-between">
-                <span style={{ color: 'var(--text-secondary)' }}>{t('children')}</span>
-                <span style={{ color: 'var(--text-primary)' }}>{t('childrenPrice')}</span>
+                <span style={{ color: 'var(--text-primary)' }}>{t('beerGardenPrice')}</span>
               </div>
             </div>
           </div>
@@ -59,8 +50,7 @@ export default function TicketsSection() {
                 <line x1="1" y1="10" x2="23" y2="10"/>
               </svg>
               <div>
-                <h4 className="font-medium" style={{ color: 'var(--text-primary)' }}>{t('card')}</h4>
-                <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('cardPrice')}</p>
+                <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('note')}</p>
               </div>
             </div>
           </div>
