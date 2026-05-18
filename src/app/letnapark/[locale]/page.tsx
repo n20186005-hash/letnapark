@@ -13,7 +13,6 @@ import HotelsSection from '@/components/letnapark/HotelsSection';
 import Gallery from '@/components/letnapark/Gallery';
 import Reviews from '@/components/letnapark/Reviews';
 import MapEmbed from '@/components/letnapark/MapEmbed';
-import Recommendations from '@/components/letnapark/Recommendations';
 import Footer from '@/components/letnapark/Footer';
 
 export default async function HomePage({
@@ -41,7 +40,6 @@ export default async function HomePage({
         <Gallery />
         <Reviews />
         <MapEmbed />
-        <Recommendations />
       </main>
       <Footer />
     </>

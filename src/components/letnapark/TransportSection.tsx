@@ -13,13 +13,37 @@ export default function TransportSection() {
       ),
     },
     {
-      key: 'selfDrive',
+      key: 'intercity',
       icon: (
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <rect x="1" y="3" width="15" height="13"/>
-          <polygon points="16 8 20 8 23 11 23 16 16 16 16 8"/>
-          <circle cx="5.5" cy="18.5" r="2.5"/>
-          <circle cx="18.5" cy="18.5" r="2.5"/>
+          <rect x="4" y="3" width="16" height="16" rx="2"/>
+          <path d="M4 11h16"/>
+          <path d="M12 3v8"/>
+          <path d="M8 19l-2 3"/>
+          <path d="M18 22l-2-3"/>
+        </svg>
+      ),
+    },
+    {
+      key: 'metro',
+      icon: (
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <rect x="4" y="3" width="16" height="18" rx="2"/>
+          <path d="M8 7h8"/>
+          <path d="M8 11h8"/>
+          <path d="M12 15v4"/>
+        </svg>
+      ),
+    },
+    {
+      key: 'tram',
+      icon: (
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <rect x="4" y="3" width="16" height="14" rx="2"/>
+          <path d="M12 3v14"/>
+          <path d="M8 17l-2 4"/>
+          <path d="M16 17l2 4"/>
+          <path d="M8 11h8"/>
         </svg>
       ),
     },
@@ -37,14 +61,13 @@ export default function TransportSection() {
       ),
     },
     {
-      key: 'intercity',
+      key: 'selfDrive',
       icon: (
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-          <rect x="4" y="3" width="16" height="16" rx="2"/>
-          <path d="M4 11h16"/>
-          <path d="M12 3v8"/>
-          <path d="M8 19l-2 3"/>
-          <path d="M18 22l-2-3"/>
+          <rect x="1" y="3" width="15" height="13"/>
+          <polygon points="16 8 20 8 23 11 23 16 16 16 16 8"/>
+          <circle cx="5.5" cy="18.5" r="2.5"/>
+          <circle cx="18.5" cy="18.5" r="2.5"/>
         </svg>
       ),
     },
@@ -55,6 +78,17 @@ export default function TransportSection() {
           <circle cx="5.5" cy="17.5" r="3.5"/>
           <circle cx="18.5" cy="17.5" r="3.5"/>
           <path d="M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-3 11.5V14l-3-3 4-3 2 3h2"/>
+        </svg>
+      ),
+    },
+    {
+      key: 'walking',
+      icon: (
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <path d="M12 4a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/>
+          <path d="M13 6l-2 5-3-2"/>
+          <path d="M11 11l-2 11"/>
+          <path d="M11 11l4 5 3-2"/>
         </svg>
       ),
     },
