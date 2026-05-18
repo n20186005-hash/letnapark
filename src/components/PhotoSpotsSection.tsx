@@ -1,81 +1,43 @@
 'use client';
 
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations } from 'next-intl';
 
 export default function PhotoSpotsSection() {
   const t = useTranslations('photoSpots');
-  const messages = useMessages() as any;
-  const spots = (messages?.photoSpots?.spots || []) as Array<{ name: string; desc: string }>;
-  const tSpots = useTranslations('photoSpots');
+  const spots = t.raw('spots') as Array<{name: string; desc: string}>;
 
   return (
-    <section className="section-padding">
-      <div className="max-w-5xl mx-auto">
+    <section id="gallery" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+      <div className="max-w-4xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
         >
-          {tSpots('title')}
+          {t('title')}
         </h2>
-        <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
+        <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
-          {spots.map((spot, index) => (
-            <PhotoSpotCard
-              key={index}
-              name={spot.name}
-              description={spot.desc}
-              index={index + 1}
-            />
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
+          {spots.map((spot, i) => (
+            <div key={i} className="p-5 rounded-xl" style={{ background: 'var(--bg-tertiary)' }}>
+              <div className="flex items-start gap-3">
+                <div className="w-8 h-8 rounded-full flex items-center justify-center flex-shrink-0" style={{ background: 'var(--accent)', color: '#fff' }}>
+                  {i + 1}
+                </div>
+                <div>
+                  <h4 className="font-medium mb-1" style={{ color: 'var(--text-primary)' }}>{spot.name}</h4>
+                  <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{spot.desc}</p>
+                </div>
+              </div>
+            </div>
           ))}
         </div>
 
-        {/* Photography Tips */}
-        <div
-          className="rounded-xl p-6"
-          style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
-        >
-          <h3 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
-            {tSpots('tips')}
-          </h3>
-          <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-            {tSpots('tipsContent')}
-          </p>
+        <div className="p-4 rounded-lg border" style={{ background: 'var(--bg-tertiary)', borderColor: 'var(--border-color)' }}>
+          <h4 className="font-medium mb-2" style={{ color: 'var(--text-primary)' }}>{t('tips')}</h4>
+          <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('tipsContent')}</p>
         </div>
       </div>
     </section>
-  );
-}
-
-function PhotoSpotCard({ name, description, index }: { name: string; description: string; index: number }) {
-  return (
-    <div
-      className="rounded-xl overflow-hidden"
-      style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
-    >
-      {/* Placeholder image area */}
-      <div
-        className="aspect-video flex items-center justify-center"
-        style={{ background: 'linear-gradient(135deg, var(--bg-secondary), var(--bg-tertiary))' }}
-      >
-        <div className="text-center">
-          <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="1.5" className="mx-auto mb-2 opacity-50">
-            <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/>
-            <circle cx="12" cy="13" r="4"/>
-          </svg>
-          <span className="text-4xl font-bold opacity-20" style={{ color: 'var(--accent)' }}>
-            {index}
-          </span>
-        </div>
-      </div>
-      <div className="p-5">
-        <h3 className="font-semibold mb-2" style={{ color: 'var(--text-primary)' }}>
-          {name}
-        </h3>
-        <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-          {description}
-        </p>
-      </div>
-    </div>
   );
 }

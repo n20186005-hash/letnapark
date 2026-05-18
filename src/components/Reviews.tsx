@@ -1,37 +1,14 @@
-import { useTranslations, useMessages } from 'next-intl';
+'use client';
 
-function Stars({ count }: { count: number }) {
-  return (
-    <div className="flex gap-0.5">
-      {[1, 2, 3, 4, 5].map((i) => (
-        <svg
-          key={i}
-          width="14"
-          height="14"
-          viewBox="0 0 24 24"
-          fill={i <= count ? '#f0b429' : 'var(--border-color)'}
-          stroke="none"
-        >
-          <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" />
-        </svg>
-      ))}
-    </div>
-  );
-}
+import { useTranslations } from 'next-intl';
 
 export default function Reviews() {
   const t = useTranslations('reviews');
-  const messages = useMessages() as any;
-  const items = (messages?.reviews?.items || []) as Array<{
-    name: string;
-    date: string;
-    rating: number;
-    text: string;
-  }>;
+  const reviews = t.raw('items') as Array<{name: string; date: string; rating: number; text: string}>;
 
   return (
     <section id="reviews" className="section-padding">
-      <div className="max-w-5xl mx-auto">
+      <div className="max-w-4xl mx-auto">
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
@@ -40,78 +17,42 @@ export default function Reviews() {
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
-        <p
-          className="text-sm leading-relaxed mb-10 max-w-2xl"
-          style={{ color: 'var(--text-muted)' }}
-        >
-          {t('declaration')}
-        </p>
-
-        <div className="grid sm:grid-cols-2 gap-4 sm:gap-6 mb-8">
-          {items.map((review, i) => (
-            <div
-              key={i}
-              className="rounded-xl p-5 sm:p-6 transition-shadow hover:shadow-md"
-              style={{
-                background: 'var(--card-bg)',
-                boxShadow: 'var(--card-shadow)',
-                border: '1px solid var(--border-color)',
-              }}
-            >
-              <div className="flex items-start justify-between mb-3">
+        <div className="space-y-6">
+          {reviews.map((review, i) => (
+            <div key={i} className="p-6 rounded-xl" style={{ background: 'var(--bg-tertiary)' }}>
+              <div className="flex items-center gap-3 mb-3">
+                <div className="w-10 h-10 rounded-full flex items-center justify-center font-medium" style={{ background: 'var(--accent)', color: '#fff' }}>
+                  {review.name.charAt(0)}
+                </div>
                 <div>
-                  <div className="flex items-center gap-2 mb-1">
-                    <div
-                      className="w-8 h-8 rounded-full flex items-center justify-center text-sm font-semibold text-white"
-                      style={{ background: 'var(--accent)' }}
-                    >
-                      {review.name.charAt(0)}
+                  <h4 className="font-medium" style={{ color: 'var(--text-primary)' }}>{review.name}</h4>
+                  <div className="flex items-center gap-2">
+                    <div className="flex">
+                      {Array.from({ length: 5 }).map((_, j) => (
+                        <svg key={j} width="14" height="14" viewBox="0 0 24 24" fill={j < review.rating ? '#f0b429' : 'none'} stroke={j < review.rating ? '#f0b429' : 'var(--border-color)'} strokeWidth="2">
+                          <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+                        </svg>
+                      ))}
                     </div>
-                    <span
-                      className="text-sm font-semibold"
-                      style={{ color: 'var(--text-primary)' }}
-                    >
-                      {review.name}
-                    </span>
+                    <span className="text-xs" style={{ color: 'var(--text-muted)' }}>{review.date}</span>
                   </div>
                 </div>
-                <span className="text-xs" style={{ color: 'var(--text-muted)' }}>
-                  {review.date}
-                </span>
               </div>
-              <Stars count={review.rating} />
-              <p className="text-sm mt-3 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-                {review.text}
-              </p>
+              <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{review.text}</p>
             </div>
           ))}
         </div>
 
-        {/* More reviews link — arrow only */}
-        <div className="flex justify-center">
+        <div className="mt-8 text-center">
+          <p className="text-sm mb-3" style={{ color: 'var(--text-muted)' }}>{t('declaration')}</p>
           <a
-            href="https://maps.app.goo.gl/WrVZx8jhqYmNRwe96"
+            href="https://maps.app.goo.gl/ZbALGJAhPn7YohZaA"
             target="_blank"
             rel="noopener noreferrer"
-            className="group flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium transition-all"
-            style={{
-              color: 'var(--accent)',
-              border: '1px solid var(--accent)',
-            }}
+            className="text-sm font-medium underline"
+            style={{ color: 'var(--accent)' }}
           >
-            <span>{t('moreReviews')}</span>
-            <svg
-              width="16"
-              height="16"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="2"
-              className="group-hover:translate-x-1 transition-transform"
-            >
-              <line x1="5" y1="12" x2="19" y2="12" />
-              <polyline points="12 5 19 12 12 19" />
-            </svg>
+            {t('moreReviews')}
           </a>
         </div>
       </div>

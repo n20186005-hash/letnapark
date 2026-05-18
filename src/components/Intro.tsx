@@ -19,7 +19,7 @@ export default function Intro() {
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
         <p
-          className="text-lg leading-relaxed mb-12"
+          className="text-lg leading-relaxed mb-12 whitespace-pre-line"
           style={{ color: 'var(--text-secondary)' }}
         >
           {t('description')}

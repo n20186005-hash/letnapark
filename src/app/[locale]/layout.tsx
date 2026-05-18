@@ -15,9 +15,9 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://thekingsgarden.info';
+  const baseUrl = 'https://letnapark.com';
 
-  const zhUrl = `${baseUrl}/`;
+  const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
   const selfUrl = locale === 'zh' ? zhUrl : enUrl;
 
@@ -36,7 +36,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "The King's Garden",
+      siteName: "Letná Park Guide",
       locale: locale === 'zh' ? 'zh_CN' : 'en_US',
       type: 'website',
     },
