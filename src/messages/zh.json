@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Letná Park（莱特纳公园）｜布拉格最佳城市公园与观景台 - 捷克旅游攻略",
-    "description": "探索布拉格 Letná Park 的完整指南。了解开放时间、交通路线、门票信息、游览攻略和精彩照片。布拉格最著名的城市公园，拥有绝佳的布拉格城堡和老城景观。"
+    "title": "Letenská pláň 莱特纳公园 (布拉格) - 游客指南与位置地图",
+    "description": "探索布拉格的标志性地标 Letenská pláň（莱特纳公园）。查看位置地图、开放时间、周边布拉格城堡和查理大桥等景点，以及旅游贴士。"
   },
   "header": {
     "home": "首页",
@@ -11,16 +11,19 @@
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "Letná Park",
+    "title": "Letenská pláň 莱特纳公园 (布拉格)",
     "subtitle": "布拉格最美城市公园，俯瞰伏尔塔瓦河与布拉格城堡",
     "rating": "4.7",
-    "reviewCount": "28,799 条评价",
+    "reviewCount": "29,451 条评价",
     "hours": "全天开放",
     "openMaps": "查看位置"
   },
   "intro": {
+    "aboutTitle": "关于 Letenská pláň",
     "title": "探索 Letná Park",
-    "description": "Letná Park（莱特纳公园）是布拉格最具代表性的城市公园之一，坐落在伏尔塔瓦河东岸的 Letná 山丘上。从公园的观景台可以俯瞰布拉格城堡、老城桥梁和蜿蜒的伏尔塔瓦河，是拍摄布拉格天际线的绝佳地点。\n\n公园内绿树成荫，草坪广阔，是布拉格市民休闲放松的首选之地。这里不仅有美丽的自然风光，还有著名的 Letná 啤酒花园，可以在户外享受捷克啤酒的同时欣赏绝美城市景观。\n\n公园内还保留着苏联时期留下的巨型节拍器雕塑，成为独特的历史见证。无论你是想悠闲散步、拍摄美景，还是体验捷克啤酒文化，Letná Park 都是不可错过的目的地。",
+    "breadcrumb": ["Letenská pláň（莱特纳公园）", "布拉格", "布拉格州", "捷克共和国"],
+    "equivalenceStatement": "欢迎来到 <strong>Letenská pláň</strong>，此地普遍被视为核心的 <strong>Letna Park</strong>（莱特纳公园）。坐落于 <strong>捷克共和国</strong> <strong>布拉格州</strong> <strong>布拉格</strong> 市的心脏地带，本景点是到访该地区旅行者的核心枢纽。",
+    "description": "Letná Park（莱特纳公园，官方全称为 Letenská pláň / Letenské sady）是布拉格最具代表性的城市公园之一，坐落在伏尔塔瓦河东岸的 Letná 山丘上。从公园的观景台可以俯瞰布拉格城堡、老城桥梁和蜿蜒的伏尔塔瓦河，是拍摄布拉格天际线的绝佳地点。\n\n公园内绿树成荫，草坪广阔，是布拉格市民休闲放松的首选之地。这里不仅有美丽的自然风光，还有著名的 Letná 啤酒花园，可以在户外享受捷克啤酒的同时欣赏绝美城市景观。\n\n公园内还保留着苏联时期留下的巨型节拍器雕塑，成为独特的历史见证。无论你是想悠闲散步、拍摄美景，还是体验捷克啤酒文化，Letenská pláň 都是不可错过的目的地。",
     "visitGuide": {
       "title": "游览建议",
       "items": [
@@ -39,9 +42,12 @@
         "苏联时期巨型节拍器雕塑",
         "伏尔塔瓦河与布拉格城堡绝美视角"
       ]
-    }
+    },
+    "nearbyLandmarksTitle": "Letna Park 周边地标与景点",
+    "nearbyLandmarksDescription": "游览 <strong>Letenská pláň（莱特纳公园）</strong> 期间，游客可轻松探索周边历史地标与名胜，包括 <strong>布拉格城堡</strong> 和 <strong>查理大桥</strong> 等标志性建筑。"
   },
   "knowledge": {
+    "historyTitle": "Letenská pláň 的历史与意义",
     "title": "发现 Letná Park 的魅力",
     "sections": [
       {
@@ -69,7 +75,7 @@
   "basicInfo": {
     "title": "基础信息",
     "officialName": "正式名称",
-    "officialNameValue": "Letná Park（Letenské sady）",
+    "officialNameValue": "Letenská pláň（Letenské sady / Letná Park）",
     "type": "景点类型",
     "typeValue": "城市公园、观景台、休闲绿地",
     "country": "国家",
@@ -77,9 +83,9 @@
     "city": "城市",
     "cityValue": "布拉格",
     "googleRating": "谷歌评分",
-    "googleRatingValue": "4.7/5 (28,799)",
+    "googleRatingValue": "4.7/5 (29,451)",
     "address": "地址",
-    "addressValue": "Letenská pláň, 170 00 Prague 7, Czechia"
+    "addressValue": "Letenská pláň, 170 00 Praha 7, Česká republika"
   },
   "hours": {
     "title": "开放时间",
@@ -246,12 +252,13 @@
     ]
   },
   "mapSection": {
+    "locationTitle": "位置与前往 Letna Park 的交通方式",
     "title": "交通指南",
-    "subtitle": "Letenská pláň, 170 00 Prague 7, Czechia",
+    "subtitle": "Letenská pláň, 170 00 Praha 7, Česká republika",
     "openMaps": "在 Google Maps 查看"
   },
   "footer": {
-    "rights": "© 2026 Letná Park 独立旅游研究协会 · 保留所有权利。",
+    "rights": "© 2026 Letenská pláň 独立旅游研究协会 · 保留所有权利。",
     "privacy": "隐私政策",
     "terms": "服务条款",
     "cookies": "Cookie 设置",
@@ -329,24 +336,26 @@
     "saved": "设置已保存！"
   },
   "officialManagement": {
-    "title": "关于 Letná Park",
-    "text": "Letná Park（Letenské sady）由布拉格市公园管理局管理维护，是布拉格最重要城市公园之一。\n\n作为布拉格最具代表性的城市绿地，Letná Park 不仅为市民提供了优质的休闲空间，也是欣赏布拉格城市风光的最佳地点。公园内的观景台吸引着无数游客前来拍摄布拉格城堡和伏尔塔瓦河的美景。如今，Letná Park 已成为布拉格不可或缺的旅游目的地，承载着这座城市的文化记忆和市民的日常休闲生活。"
+    "title": "关于 Letenská pláň",
+    "text": "Letenská pláň（Letenské sady / Letná Park，莱特纳公园）由布拉格市公园管理局管理维护，是布拉格最重要的城市公园之一。\n\n作为布拉格最具代表性的城市绿地，Letenská pláň 不仅为市民提供了优质的休闲空间，也是欣赏布拉格城市风光的最佳地点。公园内的观景台吸引着无数游客前来拍摄布拉格城堡和伏尔塔瓦河的美景。如今，Letenská pláň 已成为布拉格不可或缺的旅游目的地，承载着这座城市的文化记忆和市民的日常休闲生活。"
   },
   "recommendations": {
     "title": "探索更多",
     "attractionsTitle": "附近景点",
     "toursTitle": "推荐行程与活动",
+    "govtTourismNote": "关于官方最新动态与区域旅游资讯，请访问",
+    "govtTourismLink": "捷克共和国 / 布拉格 官方旅游门户",
     "attractions": [
-      {"name": "布拉格城堡", "url": "https://prague.eu/en"},
-      {"name": "查理大桥", "url": "https://prague.eu/en"},
-      {"name": "老城广场", "url": "https://prague.eu/en"},
-      {"name": "伏尔塔瓦河游船", "url": "https://www.visitczechia.com/"}
+      {"name": "布拉格城堡", "url": "https://www.prague.eu/en"},
+      {"name": "查理大桥", "url": "https://www.prague.eu/en"},
+      {"name": "老城广场", "url": "https://www.prague.eu/en"},
+      {"name": "伏尔塔瓦河游船", "url": "https://www.visitczechia.com/en-uk"}
     ],
     "tours": [
-      {"name": "布拉格城市步行游", "url": "https://www.visitczechia.com/"},
-      {"name": "城堡区深度游", "url": "https://prague.eu/en"},
-      {"name": "伏尔塔瓦河游船", "url": "https://www.visitczechia.com/"},
-      {"name": "捷克啤酒文化体验", "url": "https://www.visitczechia.com/"}
+      {"name": "布拉格城市步行游", "url": "https://www.visitczechia.com/en-uk"},
+      {"name": "城堡区深度游", "url": "https://www.prague.eu/en"},
+      {"name": "伏尔塔瓦河游船", "url": "https://www.visitczechia.com/en-uk"},
+      {"name": "捷克啤酒文化体验", "url": "https://www.visitczechia.com/en-uk"}
     ]
   }
 }

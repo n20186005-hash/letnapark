@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Letná Park｜Prague's Best City Park & Viewpoint - Czech Travel Guide",
-    "description": "Complete guide to Letná Park in Prague. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Prague's most famous city park with amazing views of Prague Castle and Old Town."
+    "title": "Letenská pláň (Prague) - Visitor Guide & Location",
+    "description": "Discover Letenská pláň (Letná Park), the iconic landmark in Prague, Czech Republic. View location map, opening details, nearby Prague Castle and Charles Bridge, and travel tips."
   },
   "header": {
     "home": "Home",
@@ -11,16 +11,19 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Letná Park",
+    "title": "Letenská pláň (Prague)",
     "subtitle": "Prague's Most Beautiful City Park Overlooking Vltava River & Prague Castle",
     "rating": "4.7",
-    "reviewCount": "28,799 reviews",
+    "reviewCount": "29,451 reviews",
     "hours": "Open 24/7",
     "openMaps": "View Location"
   },
   "intro": {
+    "aboutTitle": "About Letenská pláň",
     "title": "Discover Letná Park",
-    "description": "Letná Park (Letenské sady) is one of Prague's most iconic city parks, situated on the Letná hill along the eastern bank of the Vltava River. The park's viewpoint offers breathtaking panoramic views of Prague Castle, the Old Town bridges, and the meandering Vltava River, making it the perfect spot for photographing Prague's skyline.\n\nThe park is shaded by lush trees and features expansive lawns, making it a favorite relaxation spot for Prague residents. Here you'll find not only beautiful natural scenery but also the famous Letná Beer Garden, where you can enjoy Czech beer while taking in spectacular city views.\n\nThe park also preserves the giant Metronome sculpture left from the Soviet era, which has become a unique historical landmark. Whether you want to take a leisurely stroll, capture beautiful photos, or experience Czech beer culture, Letná Park is a must-visit destination.",
+    "breadcrumb": ["Letenská pláň (Letná Park)", "Prague", "Prague", "Czech Republic"],
+    "equivalenceStatement": "Welcome to <strong>Letenská pláň</strong>, widely recognized as the central <strong>Letna Park</strong>. Located in the heart of <strong>Prague</strong>, <strong>Prague</strong>, <strong>Czech Republic</strong>, this destination serves as a primary hub for travelers visiting the region.",
+    "description": "Letenská pláň (Letenské sady / Letná Park) is one of Prague's most iconic city parks, situated on the Letná hill along the eastern bank of the Vltava River. The park's viewpoint offers breathtaking panoramic views of Prague Castle, the Old Town bridges, and the meandering Vltava River, making it the perfect spot for photographing Prague's skyline.\n\nThe park is shaded by lush trees and features expansive lawns, making it a favorite relaxation spot for Prague residents. Here you'll find not only beautiful natural scenery but also the famous Letná Beer Garden, where you can enjoy Czech beer while taking in spectacular city views.\n\nThe park also preserves the giant Metronome sculpture left from the Soviet era, which has become a unique historical landmark. Whether you want to take a leisurely stroll, capture beautiful photos, or experience Czech beer culture, Letenská pláň is a must-visit destination.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -39,9 +42,12 @@
         "Giant Metronome sculpture from the Soviet era",
         "Stunning views of Vltava River and Prague Castle"
       ]
-    }
+    },
+    "nearbyLandmarksTitle": "Landmarks & Attractions Around Letna Park",
+    "nearbyLandmarksDescription": "When visiting <strong>Letenská pláň (Letná Park)</strong>, visitors can easily explore surrounding historical landmarks and points of interest, including <strong>Prague Castle</strong> and <strong>Charles Bridge</strong>."
   },
   "knowledge": {
+    "historyTitle": "History & Significance of Letenská pláň",
     "title": "The Charm of Letná Park",
     "sections": [
       {
@@ -69,7 +75,7 @@
   "basicInfo": {
     "title": "Basic Information",
     "officialName": "Official Name",
-    "officialNameValue": "Letná Park (Letenské sady)",
+    "officialNameValue": "Letenská pláň (Letenské sady / Letná Park)",
     "type": "Attraction Type",
     "typeValue": "City Park, Viewpoint, Recreation Green Space",
     "country": "Country",
@@ -77,9 +83,9 @@
     "city": "City",
     "cityValue": "Prague",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.7/5 (28,799)",
+    "googleRatingValue": "4.7/5 (29,451)",
     "address": "Address",
-    "addressValue": "Letenská pláň, 170 00 Prague 7, Czechia"
+    "addressValue": "Letenská pláň, 170 00 Praha 7, Česká republika"
   },
   "hours": {
     "title": "Opening Hours",
@@ -246,12 +252,13 @@
     ]
   },
   "mapSection": {
+    "locationTitle": "Location & How to Visit Letna Park in Prague",
     "title": "How to Get Here",
-    "subtitle": "Letenská pláň, 170 00 Prague 7, Czechia",
+    "subtitle": "Letenská pláň, 170 00 Praha 7, Česká republika",
     "openMaps": "View on Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Letná Park Independent Travel Research Association · All rights reserved.",
+    "rights": "© 2026 Letenská pláň Independent Travel Research Association · All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
@@ -329,24 +336,26 @@
     "saved": "Preferences saved!"
   },
   "officialManagement": {
-    "title": "About Letná Park",
-    "text": "Letná Park (Letenské sady) is managed and maintained by the Prague City Parks Administration and is one of Prague's most important city parks.\n\nAs Prague's most representative urban green space, Letná Park not only provides citizens with high-quality recreational space but also serves as the best location to enjoy Prague's city scenery. The viewpoint in the park attracts countless visitors to photograph the beautiful scenery of Prague Castle and the Vltava River. Today, Letná Park has become an indispensable tourist destination in Prague, carrying the cultural memory of the city and the daily recreational life of its citizens."
+    "title": "About Letenská pláň",
+    "text": "Letenská pláň (Letenské sady / Letná Park) is managed and maintained by the Prague City Parks Administration and is one of Prague's most important city parks.\n\nAs Prague's most representative urban green space, Letenská pláň not only provides citizens with high-quality recreational space but also serves as the best location to enjoy Prague's city scenery. The viewpoint in the park attracts countless visitors to photograph the beautiful scenery of Prague Castle and the Vltava River. Today, Letenská pláň has become an indispensable tourist destination in Prague, carrying the cultural memory of the city and the daily recreational life of its citizens."
   },
   "recommendations": {
     "title": "Discover More",
     "attractionsTitle": "Nearby Attractions",
     "toursTitle": "Recommended Tours & Activities",
+    "govtTourismNote": "For official updates and regional tourism information, visit the",
+    "govtTourismLink": "Czech Republic / Prague Official Tourism Portal",
     "attractions": [
-      {"name": "Prague Castle", "url": "https://prague.eu/en"},
-      {"name": "Charles Bridge", "url": "https://prague.eu/en"},
-      {"name": "Old Town Square", "url": "https://prague.eu/en"},
-      {"name": "Vltava River Cruise", "url": "https://www.visitczechia.com/"}
+      {"name": "Prague Castle", "url": "https://www.prague.eu/en"},
+      {"name": "Charles Bridge", "url": "https://www.prague.eu/en"},
+      {"name": "Old Town Square", "url": "https://www.prague.eu/en"},
+      {"name": "Vltava River Cruise", "url": "https://www.visitczechia.com/en-uk"}
     ],
     "tours": [
-      {"name": "Prague City Walking Tour", "url": "https://www.visitczechia.com/"},
-      {"name": "Castle District Deep Tour", "url": "https://prague.eu/en"},
-      {"name": "Vltava River Cruise", "url": "https://www.visitczechia.com/"},
-      {"name": "Czech Beer Culture Experience", "url": "https://www.visitczechia.com/"}
+      {"name": "Prague City Walking Tour", "url": "https://www.visitczechia.com/en-uk"},
+      {"name": "Castle District Deep Tour", "url": "https://www.prague.eu/en"},
+      {"name": "Vltava River Cruise", "url": "https://www.visitczechia.com/en-uk"},
+      {"name": "Czech Beer Culture Experience", "url": "https://www.visitczechia.com/en-uk"}
     ]
   }
 }

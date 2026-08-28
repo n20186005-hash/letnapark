@@ -7,10 +7,11 @@ export default function InfoSection() {
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
       <div className="max-w-4xl mx-auto">
         <h2
+          id="history-significance-letna-park"
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
         >
-          {t('title')}
+          {t('historyTitle')}
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 

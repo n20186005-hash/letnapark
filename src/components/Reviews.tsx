@@ -46,7 +46,7 @@ export default function Reviews() {
         <div className="mt-8 text-center">
           <p className="text-sm mb-3" style={{ color: 'var(--text-muted)' }}>{t('declaration')}</p>
           <a
-            href="https://maps.app.goo.gl/ZbALGJAhPn7YohZaA"
+            href="https://maps.app.goo.gl/RRYWDwtaiSGMkYQG9"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm font-medium underline"
