@@ -31,6 +31,7 @@ const officialLinkUrls: Record<string, { cs: string; zh: string; en: string }> =
 
 export default function Footer() {
   const t = useTranslations('footer');
+  const ht = useTranslations('header');
   const locale = useLocale();
   const linkLabels = t.raw('officialLinks') as Record<string, string>;
 
@@ -48,11 +49,12 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div className="md:col-span-2">
             <h3 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
-              Letenská pláň
+              Letná Park
             </h3>
             <p className="text-sm mb-4" style={{ color: 'var(--text-secondary)' }}>
               {t('disclaimer')}
             </p>
+            <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>{t('ratingNote')}</p>
             <div>
               <h4 className="font-medium text-sm mb-2" style={{ color: 'var(--text-primary)' }}>
                 {t('officialResourcesTitle')}
@@ -77,9 +79,13 @@ export default function Footer() {
           <div>
             <h4 className="font-medium text-sm mb-3" style={{ color: 'var(--text-primary)' }}>Navigation</h4>
             <div className="space-y-2">
-              <a href="#gallery-section" className="block text-sm" style={{ color: 'var(--text-secondary)' }}>Gallery</a>
-              <a href="#reviews" className="block text-sm" style={{ color: 'var(--text-secondary)' }}>Reviews</a>
-              <a href="#map" className="block text-sm" style={{ color: 'var(--text-secondary)' }}>Map</a>
+              <a href="#viewpoints" className="block text-sm" style={{ color: 'var(--text-secondary)' }}>{ht('viewpoints')}</a>
+              <a href="#parking" className="block text-sm" style={{ color: 'var(--text-secondary)' }}>{ht('parking')}</a>
+              <a href="#events" className="block text-sm" style={{ color: 'var(--text-secondary)' }}>{ht('events')}</a>
+              <a href="#faq" className="block text-sm" style={{ color: 'var(--text-secondary)' }}>{ht('faq')}</a>
+              <a href="#gallery-section" className="block text-sm" style={{ color: 'var(--text-secondary)' }}>{ht('gallery')}</a>
+              <a href="#reviews" className="block text-sm" style={{ color: 'var(--text-secondary)' }}>{ht('reviews')}</a>
+              <a href="#map" className="block text-sm" style={{ color: 'var(--text-secondary)' }}>{ht('map')}</a>
             </div>
           </div>
 

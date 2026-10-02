@@ -1,7 +1,9 @@
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
+import { ATTRACTION, mapsEmbedSrc } from '@/data/site';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
+  const locale = useLocale();
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -17,20 +19,24 @@ export default function MapEmbed() {
 
         <div className="map-container rounded-xl overflow-hidden" style={{ border: '1px solid var(--map-border)' }}>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9104.82363201352!2d14.405755893579105!3d50.09598640000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b94db7467266d%3A0x945bf38ff60c58da!2sLetna%20Park!5e1!3m2!1szh-CN!2s!4v1787895519956!5m2!1szh-CN!2s"
+            src={mapsEmbedSrc(locale)}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
             referrerPolicy="strict-origin-when-cross-origin"
-            title="Letenská pláň (Letná Park) Location Map"
+            title={`${ATTRACTION.name} (${ATTRACTION.nameLocal}) location map`}
           />
         </div>
 
+        <p className="mt-4 text-sm" style={{ color: 'var(--text-muted)' }}>
+          {ATTRACTION.streetAddress} · {ATTRACTION.plusCode} · {ATTRACTION.latitude}, {ATTRACTION.longitude}
+        </p>
+
         <div className="text-center mt-8">
           <a
-            href="https://maps.app.goo.gl/RRYWDwtaiSGMkYQG9"
+            href={ATTRACTION.mapsShareUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-full font-medium transition-colors"

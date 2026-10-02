@@ -2,19 +2,25 @@ import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import Intro from '@/components/Intro';
-import BasicInfo from '@/components/BasicInfo';
+import ViewpointsSection from '@/components/ViewpointsSection';
+import MapEmbed from '@/components/MapEmbed';
+import InfoSection from '@/components/InfoSection';
 import HoursSection from '@/components/HoursSection';
 import TicketsSection from '@/components/TicketsSection';
 import TransportSection from '@/components/TransportSection';
-import InfoSection from '@/components/InfoSection';
+import ParkingSection from '@/components/ParkingSection';
+import BasicInfo from '@/components/BasicInfo';
 import RouteSection from '@/components/RouteSection';
+import EventsSection from '@/components/EventsSection';
 import PhotoSpotsSection from '@/components/PhotoSpotsSection';
-import HotelsSection from '@/components/HotelsSection';
+import StaySection from '@/components/StaySection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
-import MapEmbed from '@/components/MapEmbed';
+import FaqSection from '@/components/FaqSection';
 import Footer from '@/components/Footer';
 
+// Order follows the way visitors actually plan the trip: what it is → where to stand
+// → where it is → history → practicalities → travel → events → photos → more.
 export default async function HomePage({
   params,
 }: {
@@ -29,17 +35,21 @@ export default async function HomePage({
       <main>
         <Hero />
         <Intro />
-        <BasicInfo />
+        <ViewpointsSection />
+        <MapEmbed />
+        <InfoSection />
         <HoursSection />
         <TicketsSection />
         <TransportSection />
-        <InfoSection />
+        <ParkingSection />
+        <BasicInfo />
         <RouteSection />
+        <EventsSection />
         <PhotoSpotsSection />
-        <HotelsSection />
+        <StaySection />
         <Gallery />
         <Reviews />
-        <MapEmbed />
+        <FaqSection />
       </main>
       <Footer />
     </>

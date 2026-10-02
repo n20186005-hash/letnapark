@@ -1,20 +1,21 @@
 'use client';
 
 import { useTranslations, useLocale } from 'next-intl';
+import { ATTRACTION } from '@/data/site';
 
 const landmarkByIndex: Record<number, { cs: string; zh: string; en: string }> = {
-  0: { cs: 'Panoramatický výhled na Letenskou pláň', zh: '莱特纳公园全景 - Letenská pláň 主视角', en: 'Letenská pláň Panoramic View - Main Viewpoint' },
-  1: { cs: 'Výhled na Pražský hrad poblíž Letenské planě', zh: '布拉格城堡 - 莱特纳公园附近地标', en: 'Prague Castle near Letna Park' },
-  2: { cs: 'Letenské pivní zahrady poblíž Letenské planě', zh: '莱特纳啤酒花园 - Letenská pláň 地标', en: 'Letná Beer Garden near Letna Park' },
-  3: { cs: 'Výhled na řeku Vltavu poblíž Letenské planě', zh: '伏尔塔瓦河 - 莱特纳公园附近景观', en: 'Vltava River View near Letna Park' },
-  4: { cs: 'Socha obřího metronomu poblíž Letenské planě', zh: '巨型节拍器雕塑 - 莱特纳公园附近地标', en: 'Giant Metronome Sculpture near Letna Park' },
-  5: { cs: 'Stíněná stezka v Letenské pláni', zh: '绿树小径 - 莱特纳公园内部景观', en: 'Tree-shaded Path in Letna Park' },
-  6: { cs: 'Městská vyhlídka v Letenské pláni', zh: '城市观景台 - 莱特纳公园观景设施', en: 'City Viewpoint in Letna Park' },
-  7: { cs: 'Západ slunce nad Letenskou plání', zh: '日落时分 - 莱特纳公园黄金时刻', en: 'Sunset Moment at Letna Park' },
-  8: { cs: 'Rekreační trávník v Letenské pláni', zh: '草坪休闲区 - 莱特纳公园内部', en: 'Park Lawn Recreation in Letna Park' },
-  9: { cs: 'Panorama Pražské panoramaty z Letenské planě', zh: '布拉格天际线 - 从莱特纳公园眺望', en: 'Prague Skyline from Letna Park' },
-  10: { cs: 'Jarní rozkvetlé třešně v Letenské pláni', zh: '春季樱花 - 莱特纳公园季节性景观', en: 'Spring Cherry Blossoms in Letna Park' },
-  11: { cs: 'Dětské hřiště v Letenské pláni', zh: '儿童游乐场 - 莱特纳公园设施', en: 'Children\'s Playground in Letna Park' },
+  0: { cs: 'Panoramatický výhled z terasy v Letenských sadech', zh: '莱特纳公园阳台全景视角', en: 'Panoramic view from the terrace in Letná Park' },
+  1: { cs: 'Výhled na Pražský hrad z Letenských sadů', zh: '从莱特纳公园眺望布拉格城堡', en: 'Prague Castle seen from Letná Park' },
+  2: { cs: 'Letenská pivní zahrada s výhledem na město', zh: '莱特纳啤酒花园的城市景色', en: 'Letná Beer Garden with the city view' },
+  3: { cs: 'Výhled na řeku Vltavu z Letné', zh: '从莱特纳眺望伏尔塔瓦河', en: 'Vltava River view from Letná' },
+  4: { cs: 'Socha Metronomu na Letné', zh: '莱特纳公园的节拍器雕塑', en: 'Metronome sculpture at Letná' },
+  5: { cs: 'Stíněná alej v Letenských sadech', zh: '莱特纳公园的林荫步道', en: 'Tree-shaded alley in Letenské sady' },
+  6: { cs: 'Městská vyhlídková terasa na Letné', zh: '莱特纳公园的城市观景平台', en: 'City viewpoint terrace at Letná' },
+  7: { cs: 'Západ slunce nad Prahou z Letné', zh: '从莱特纳公园看布拉格日落', en: 'Sunset over Prague from Letná' },
+  8: { cs: 'Odpočinek na trávníku v parku', zh: '莱特纳公园的草坪休闲区', en: 'Lawn relaxation in Letná Park' },
+  9: { cs: 'Panorama Prahy z Letenské plošiny', zh: '从莱特纳高地眺望布拉格天际线', en: 'Prague skyline from the Letná plateau' },
+  10: { cs: 'Jarní květy v Letenských sadech', zh: '莱特纳公园的春季花开', en: 'Spring blossom in Letenské sady' },
+  11: { cs: 'Dětské hřiště v Letné poblíž Letenského náměstí', zh: '莱特纳公园的儿童游乐区', en: 'Children’s playground in Letná near Letenské náměstí' },
 };
 
 export default function Gallery() {
@@ -59,7 +60,7 @@ export default function Gallery() {
 
         <div className="text-center mt-8">
           <a
-            href="https://maps.app.goo.gl/RRYWDwtaiSGMkYQG9"
+            href={ATTRACTION.mapsShareUrl}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-full font-medium transition-colors"

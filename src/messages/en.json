@@ -1,280 +1,360 @@
 {
   "meta": {
-    "title": "Letenská pláň (Prague) - Visitor Guide & Location",
-    "description": "Discover Letenská pláň (Letná Park), the iconic landmark in Prague, Czech Republic. View location map, opening details, nearby Prague Castle and Charles Bridge, and travel tips."
+    "title": "Letná Park Prague (Letenské sady): Viewpoints, Map & Guide",
+    "description": "Letná Park (Letenské sady) in Prague 7: where the free viewpoint is, how to get there by tram or metro, parking, Metronome history and beer garden hours.",
+    "siteName": "Letná Park Prague Guide",
+    "ogImageAlt": "View over the Vltava river and Prague's bridges from Letná Park"
   },
   "header": {
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
+    "viewpoints": "Viewpoints",
+    "faq": "FAQ",
+    "parking": "Parking",
+    "events": "Events",
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Letenská pláň (Prague)",
-    "subtitle": "Prague's Most Beautiful City Park Overlooking Vltava River & Prague Castle",
+    "title": "Letná Park Prague — Letenské sady",
+    "subtitle": "A free viewpoint terrace high above the Vltava in Prague 7",
     "rating": "4.7",
-    "reviewCount": "29,451 reviews",
-    "hours": "Open 24/7",
-    "openMaps": "View Location"
+    "reviewCount": "29,657 Google Maps reviews, checked October 2026",
+    "hours": "Open all day, every day",
+    "openMaps": "View Location",
+    "ratingNote": "Ratings and review counts change over time — open Google Maps for the current figure."
   },
   "intro": {
-    "aboutTitle": "About Letenská pláň",
+    "aboutTitle": "About Letná Park (Letenské sady)",
     "title": "Discover Letná Park",
-    "breadcrumb": ["Letenská pláň (Letná Park)", "Prague", "Prague", "Czech Republic"],
-    "equivalenceStatement": "Welcome to <strong>Letenská pláň</strong>, widely recognized as the central <strong>Letna Park</strong>. Located in the heart of <strong>Prague</strong>, <strong>Prague</strong>, <strong>Czech Republic</strong>, this destination serves as a primary hub for travelers visiting the region.",
-    "description": "Letenská pláň (Letenské sady / Letná Park) is one of Prague's most iconic city parks, situated on the Letná hill along the eastern bank of the Vltava River. The park's viewpoint offers breathtaking panoramic views of Prague Castle, the Old Town bridges, and the meandering Vltava River, making it the perfect spot for photographing Prague's skyline.\n\nThe park is shaded by lush trees and features expansive lawns, making it a favorite relaxation spot for Prague residents. Here you'll find not only beautiful natural scenery but also the famous Letná Beer Garden, where you can enjoy Czech beer while taking in spectacular city views.\n\nThe park also preserves the giant Metronome sculpture left from the Soviet era, which has become a unique historical landmark. Whether you want to take a leisurely stroll, capture beautiful photos, or experience Czech beer culture, Letenská pláň is a must-visit destination.",
+    "breadcrumb": ["Letná Park (Letenské sady)", "Prague 7", "Prague", "Czechia"],
+    "equivalenceStatement": "<strong>Letná Park</strong> — in Czech <strong>Letenské sady</strong> — is the terraced park on the Letná plateau above the <strong>Vltava</strong> in <strong>Prague 7</strong>. The large open ground immediately west of it, <strong>Letenská pláň</strong>, is a separate flat area used for sport, markets and open-air concerts; most visitors experience the two as one continuous Letná area.",
+    "description": "Letná Park occupies the clifftop edge of the Letná plateau on the left bank of the Vltava, looking across the river towards the Old Town bridges, Petřín Hill and Prague Castle. Because the park sits roughly 40 metres above the water, its terraces deliver the classic postcard view of Prague without a ticket, a lift or a queue.\n\nThe green space itself is a grid of shaded allées, open lawns and promenades: locals picnic on the grass, runners use the flat paths along the ridge and families head for the playgrounds near Letenské náměstí. On the eastern edge stands Letná Beer Garden, whose terrace shares the same panorama as the viewpoint.\n\nTwo landmarks anchor the plateau. The Hanavský Pavilion is a cast-iron exhibition hall from the 1891 Jubilee Exhibition. The Metronome, a kinetic sculpture installed in 1991, stands on the plinth left behind by the Stalin Monument that was demolished in 1962. Visiting Letná Park is free at any hour, which is why it is one of the few central viewpoints in Prague that stays accessible after dark.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
-        "Spring and autumn offer pleasant weather, ideal for visiting",
-        "Park admission is free, no tickets required",
-        "Sunset at the viewpoint offers the most spectacular Prague skyline views",
-        "Beer garden is perfect for afternoon relaxation and experiencing Czech beer culture",
-        "Recommended to allocate 2-3 hours for a leisurely visit"
+        "Entry is free and the paths stay open after sunset",
+        "Allow 60–90 minutes for viewpoints and the promenade",
+        "Arrive 30–45 minutes before sunset if you want space on the terrace",
+        "Combine it with a walk downhill to Malá Strana or across Charles Bridge",
+        "Spring and autumn give the clearest views; summer haze builds up on hot afternoons"
       ]
     },
     "alsoKnownAs": {
-      "title": "Highlights",
+      "title": "What people search for",
       "items": [
-        "Best city viewpoint in Prague",
-        "Home to the famous Letná Beer Garden",
-        "Giant Metronome sculpture from the Soviet era",
-        "Stunning views of Vltava River and Prague Castle"
+        "Letná Park / Letenské sady — the park itself",
+        "Letenská pláň — the adjoining open plateau",
+        "Letná viewpoint — the panorama over the bridges",
+        "Letná Beer Garden — for the terrace panorama",
+        "Metronome Letná — the kinetic sculpture on the old plinth"
       ]
     },
-    "nearbyLandmarksTitle": "Landmarks & Attractions Around Letna Park",
-    "nearbyLandmarksDescription": "When visiting <strong>Letenská pláň (Letná Park)</strong>, visitors can easily explore surrounding historical landmarks and points of interest, including <strong>Prague Castle</strong> and <strong>Charles Bridge</strong>."
+    "nearbyLandmarksTitle": "Landmarks & Attractions Around Letná Park",
+    "nearbyLandmarksDescription": "From <strong>Letenské sady</strong> you can walk down to the river and continue to <strong>Prague Castle</strong>, <strong>Malá Strana</strong> and <strong>Charles Bridge</strong> without transport."
+  },
+  "viewpoints": {
+    "title": "Best viewpoints in Letná Park",
+    "intro": "Four spots on the plateau give noticeably different photographs. Coordinates are approximate — check them against the map below before you set out.",
+    "coordsLabel": "Coordinates",
+    "walkLabel": "Walk from transit",
+    "viewLabel": "What you see",
+    "timeLabel": "Best time",
+    "items": [
+      {
+        "name": "Beer garden terrace",
+        "coords": "approx. 50.0966, 14.4064",
+        "walk": "4 minutes on flat ground from the Letenské náměstí tram stop",
+        "view": "South-east across the Vltava to the Old Town bridge group, with Petřín Hill behind them",
+        "bestTime": "Late afternoon; seating fills up on warm weekends"
+      },
+      {
+        "name": "Metronome platform",
+        "coords": "approx. 50.0944, 14.4062",
+        "walk": "7 minutes from Letenské náměstí, downhill along the ridge",
+        "view": "Wide river bend plus the Prague Castle silhouette to the south",
+        "bestTime": "Blue hour, when the moving arm is lit"
+      },
+      {
+        "name": "Hanavský Pavilion terrace",
+        "coords": "approx. 50.0955, 14.4074",
+        "walk": "5 minutes from Letenské náměstí through the park",
+        "view": "Framed view between trees — good for compressed telephoto shots of the castle",
+        "bestTime": "Morning, when the light falls across the bridges"
+      },
+      {
+        "name": "Edge of Letenská pláň",
+        "coords": "approx. 50.0975, 14.4040",
+        "walk": "10 minutes up from Hradčanská metro station",
+        "view": "Open, elevated horizon over the stadium roof towards the castle district",
+        "bestTime": "Concert-free weekday evenings for empty compositions"
+      }
+    ],
+    "note": "The terraces face south-east, so the sunset position shifts through the year: in high summer the sun drops to the north-west, behind the viewpoint, while in spring and autumn it sets closer to Prague Castle."
   },
   "knowledge": {
-    "historyTitle": "History & Significance of Letenská pláň",
+    "historyTitle": "History & Significance of Letná Park",
     "title": "The Charm of Letná Park",
     "sections": [
       {
         "id": "history",
         "title": "Historical Changes",
-        "content": "The history of the Letná area dates back centuries and has long been an important recreation spot for Prague citizens. During the Communist era, a massive 15-meter Stalin statue stood here but was demolished in 1962. Today, a giant Metronome sculpture stands at the original site, becoming a unique historical landmark of the area. Over time, Letná Park has gradually developed into one of Prague's most important city parks, attracting countless visitors to enjoy Prague's magnificent scenery."
+        "content": "The Letná plateau was vineyards and open land outside the city walls before it was planted as public grounds in the 19th century. The largest structure ever built here was the Stalin Monument, unveiled in 1955 and demolished by controlled explosions in 1962. In 1991 the Metronome by sculptor Vratislav Karel Novák was installed on the surviving plinth, deliberately covering the site with something impermanent. Since then the plateau has also been the setting for large public gatherings, including the 1989 demonstrations before the Velvet Revolution and, later, the biggest open-air concerts held in Prague."
       },
       {
         "id": "architecture",
         "title": "Landscape Features",
-        "content": "Letná Park is uniquely situated on a hill, offering a privileged geographic location. The park's viewpoint is the best place to admire Prague's skyline, offering views of Prague Castle, Charles Bridge, and the Old Town bridge cluster. The park is shaded by lush trees, with large lawns suitable for picnics and recreational activities. The famous Letná Beer Garden is one of Central Europe's largest beer gardens, where outdoor seating allows you to enjoy Czech beer while taking in the beautiful city scenery."
+        "content": "Letenské sady is laid out for promenading: tree-lined allées run along the ridge, opening onto lawns and onto a paved terrace that follows the retaining wall above the river. The drop of roughly 40 metres from the terrace to the water is what makes the panorama work — you look across, not up. The Hanavský Pavilion, a cast-iron structure from the 1891 Jubilee Exhibition, sits at the eastern end and is the park's only significant built landmark."
       },
       {
         "id": "culture",
         "title": "Cultural Significance",
-        "content": "Letná Park is not only a daily recreation spot for Prague citizens but also an important cultural landmark. The giant Metronome sculpture has become a collective memory for a generation, symbolizing the changes of eras. Every summer, various cultural events and music festivals are held in the park. This is an excellent place to experience local Prague life, where you can observe Prague residents' daily leisure lifestyle and feel the city's unique cultural atmosphere."
+        "content": "For Praguers, Letná is an everyday park rather than a monument: it is used for jogging, picnics, dog walking, skateboarding under the Metronome and Sunday afternoons on the grass. That everyday quality is exactly why the viewpoint is rarely as crowded as Petřín Hill or the Old Town Hall tower, despite being free and visible."
       },
       {
         "id": "experience",
         "title": "Core Experience",
-        "content": "At Letná Park, the most unforgettable experience is admiring Prague's sunset from the viewpoint. When the sun sets, Prague Castle and the red-roofed buildings of the Old Town look especially beautiful against the golden sunlight. The beer garden is an excellent place to experience Czech beer culture, where you can drink and chat with locals. The park also has children's playgrounds, jogging trails, and other facilities, making it suitable for family outings. When cherry blossoms bloom in spring and maple leaves turn red in autumn, the park presents different charming scenary."
+        "content": "The most reliable experience is a walk from Letenské náměstí to the terrace in the late afternoon: cross the park, take in successive angles of the bridges, stop at the Metronome, then choose between the beer garden terrace and the open edge of Letenská pláň for sunset. In good weather the whole loop takes about an hour; with a stop for a drink it easily fills an evening."
       }
     ]
   },
   "basicInfo": {
     "title": "Basic Information",
     "officialName": "Official Name",
-    "officialNameValue": "Letenská pláň (Letenské sady / Letná Park)",
+    "officialNameValue": "Letná Park (Czech: Letenské sady)",
     "type": "Attraction Type",
-    "typeValue": "City Park, Viewpoint, Recreation Green Space",
+    "typeValue": "Municipal park with public viewpoint terrace",
     "country": "Country",
-    "countryValue": "Czech Republic",
+    "countryValue": "Czechia",
     "city": "City",
-    "cityValue": "Prague",
-    "googleRating": "Google Rating",
-    "googleRatingValue": "4.7/5 (29,451)",
+    "cityValue": "Prague 7, Prague",
+    "googleRating": "Google Maps Rating",
+    "googleRatingValue": "4.7 / 5 — check Google Maps for the latest count",
     "address": "Address",
-    "addressValue": "Letenská pláň, 170 00 Praha 7, Česká republika"
+    "addressValue": "Letná, 170 00 Prague 7, Czechia",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "3CW8+94 Prague 7, Czechia",
+    "coordinates": "Coordinates",
+    "coordinatesValue": "50.09599, 14.40576"
   },
   "hours": {
     "title": "Opening Hours",
-    "outdoor": "Outdoor Area",
-    "outdoorTime": "Open 24/7, year-round",
+    "outdoor": "Park & viewpoint terrace",
+    "outdoorTime": "Open 24 hours, year-round, free of charge",
     "beerGarden": "Letná Beer Garden",
-    "beerGardenTime": "Summer 12:00-23:00, Winter 12:00-22:00",
-    "tip": "Recommended to visit during daytime; sunset offers the most spectacular views"
+    "beerGardenTime": "Seasonal, roughly spring to autumn; typically late morning until around 23:00. Closed or limited in winter — check on site.",
+    "tip": "The terraces stay open after dark; lighting along the allées is moderate, so bring a torch if you are leaving late."
   },
   "tickets": {
     "title": "Ticket Prices",
     "outdoor": "Park Outdoor Area",
-    "outdoorPrice": "Free admission, no entry fee",
+    "outdoorPrice": "Free, no ticket and no reservation",
     "beerGarden": "Letná Beer Garden",
-    "beerGardenPrice": "Free entry, pay for consumption",
-    "note": "Park is completely free; beer garden consumption as needed"
+    "beerGardenPrice": "No admission charge; you pay for what you order",
+    "note": "Nothing on the plateau costs an entry fee. Any charge applies only to what you order at the kiosks or beer garden."
   },
   "transport": {
     "title": "How to Get Here",
     "airport": "From the Airport",
-    "airportDesc": "From Václav Havel Airport Prague (PRG), take trolleybus 59 to Nádraží Veleslavín, transfer to Metro Line A to Hradčanská station, and walk to the park.",
+    "airportDesc": "From Václav Havel Airport Prague take trolleybus 59 to Nádraží Veleslavín, then Metro A to Hradčanská and walk up through the park, about 10 minutes to the terrace.",
     "intercity": "From Train Stations",
-    "intercityDesc": "From Prague Main Railway Station (Hlavní nádraží), take Metro Line C to Muzeum, transfer to Line A to Hradčanská; or take tram 26 directly to Letenské náměstí.",
+    "intercityDesc": "From Praha hlavní nádraží take Metro C to Muzeum and change to Metro A for Hradčanská, or take tram 26 straight to Letenské náměstí, which drops you almost inside the park.",
     "metro": "Metro (Recommended)",
-    "metroDesc": "Take Metro Line A to Hradčanská station, then walk about 10 minutes to the park entrance. This is the most convenient transportation option.",
+    "metroDesc": "Metro A to Hradčanská, then about 10 minutes uphill through Letenské sady to the viewpoint. Malostranská (also line A) works if you prefer a short, steeper climb.",
     "tram": "Tram",
-    "tramDesc": "Take tram routes 1, 8, 12, 25, 26 to Letenské náměstí station, then walk 5 minutes to arrive.",
+    "tramDesc": "Trams 1, 8, 12, 25 and 26 stop at Letenské náměstí — the flatest approach, about 4 minutes from the terrace with no hill to climb.",
     "bus": "Bus",
-    "busDesc": "Take bus 131 to the Sparta stop, which is just a few minutes' walk from the park entrance.",
+    "busDesc": "Bus 131 to Sparta is the shortest hop from Holešovice and the stadium side of the plateau.",
     "selfDrive": "Driving & Parking",
-    "selfDriveDesc": "Street parking is limited (mostly blue zones). We recommend using the paid parking near Letná Stadium or P+R facilities outside the city center.",
+    "selfDriveDesc": "Driving is the weakest option: parking across Letná is dominated by resident-only blue zones with weekday enforcement. See the parking section below for paid alternatives.",
     "walking": "Walking",
-    "walkingDesc": "Walk from Old Town about 20-30 minutes, enjoying Vltava River scenery along the way.",
+    "walkingDesc": "From the Old Town the walk takes 20–30 minutes across the river and up; from Malá Strana it is a 15–20 minute climb.",
     "cycling": "Cycling",
-    "cyclingDesc": "Prague offers city bike-sharing. Cycling to the park is very convenient, and there are dedicated bike paths within the park.",
+    "cyclingDesc": "Shared bikes and bike lanes along the river make cycling a comfortable approach, though the climb from the riverbank is steep in places.",
     "tips": "Travel Tips",
-    "tipsDesc": "Recommended to combine metro and walking; walking uphill from Hradčanská station offers scenic views along the way. Avoid peak hours on summer weekends."
+    "tipsDesc": "Tram to Letenské náměstí avoids every hill on the plateau. Buy a Prague public transport ticket before boarding — fines for travelling without validation are common."
+  },
+  "parking": {
+    "title": "Parking near Letná Park",
+    "intro": "Parking is the single most common practical question about this area, and the honest answer is: do not rely on street parking here.",
+    "items": [
+      "Streets across Letná and Holešovice are largely resident-priority blue zones (modré zóny) enforced on weekdays; visitor parking is limited to a few marked bays",
+      "The few paid car parks around the stadium and Letenské náměstí fill quickly on sunny weekends and during events on Letenská pláň",
+      "A park-and-ride is usually faster overall: leave the car at P+R Nádraží Veleslavín or P+R Nádraží Holešovice and finish by Metro A or tram",
+      "On concert days expect temporary closures and traffic controls around the plateau — assume no parking nearby"
+    ],
+    "note": "We deliberately do not publish tariffs or hour limits: zone rules and prices are updated by the city and change several times a year. Check the on-site signage or the official Prague parking zone map before you leave."
+  },
+  "events": {
+    "title": "Events on Letenská pláň",
+    "body": "Major open-air concerts, festivals and seasonal markets take place on Letenská pláň, the flat ground adjoining the park, rather than inside Letenské sady itself. Line-ups change weekly, so this site does not keep its own \"what's on today\" list — check the events calendar published by Prague City Tourism (prague.eu) or search Google Maps for \"Letenská pláň\" and open the latest updates there. During large events, sections of the plateau close, trams run crowded and noise carries across the whole hill.",
+    "linkText": "Prague City Tourism — official events listing"
   },
   "route": {
     "title": "Recommended Route",
-    "overview": "Start from Metro Line A Hradčanská station, walk uphill to Letná Park. First head to the viewpoint to enjoy the panoramic view of Prague Castle and Vltava River, then stroll along the tree-shaded paths in the park and visit the giant Metronome sculpture. In the afternoon, you can relax at Letná Beer Garden and taste Czech beer. If time permits, you can continue to nearby Prague Castle or the Old Town. Standard visit takes 2-3 hours.",
+    "overview": "Take the tram to Letenské náměstí — it avoids the climb — then cross Letenské sady to the viewpoint terrace, continue along the ridge to the Metronome, loop back past the Hanavský Pavilion and finish at the beer garden or the western edge of Letenská pláň for the evening light. The whole loop is roughly three kilometres on park paths and takes 60–90 minutes.",
     "stepsTitle": "Route Steps",
     "steps": [
-      "Depart from Hradčanská Metro station, walk uphill to Letná Park",
-      "After arriving at the park, first head to the main viewpoint to enjoy the panoramic view of Prague Castle",
-      "Stroll along the park paths and enjoy the relaxing environment shaded by trees",
-      "Visit the giant Metronome sculpture left from the Soviet era",
-      "Enjoy lunch or afternoon tea at Letná Beer Garden, tasting Czech beer",
-      "Rest on the lawn and observe the leisure lifestyle of local people",
-      "Return to the viewpoint before sunset to capture the beautiful sunset of Prague skyline",
-      "Walk down the hill to continue exploring the Old Town or Prague Castle"
+      "Arrive at Letenské náměstí by tram and enter the park through the main alley",
+      "Walk straight to the viewpoint terrace above the retaining wall for the first panorama",
+      "Follow the ridge west and down towards the Metronome platform",
+      "Return along the lower path past the Hanavský Pavilion",
+      "Stop at the beer garden terrace — the same view with seating",
+      "Cross onto Letenská pláň for the wide, open horizon",
+      "Take the last half hour before sunset back on the viewpoint terrace",
+      "Walk downhill to Malá Strana or back to your tram"
     ],
     "supplementsTitle": "Additional Tips",
     "supplements": [
-      "The park has considerable slopes; wear comfortable walking shoes",
-      "Summer UV rays are strong; take sun protection measures",
-      "Beer garden prices are reasonable and accept credit card payment",
-      "It's windy near the viewpoint; bring a jacket",
-      "Public toilets are available in the park, near the beer garden"
+      "The route is mostly level; only the approach from Hradčanská metro involves a real climb",
+      "Wheelchair users and pushchairs can use the Letenské náměstí approach — it is step-free to the terrace",
+      "Paths are unpaved in places and can be muddy after rain",
+      "The exposed ridge is windy: bring a layer even in summer",
+      "Public toilets are available near the beer garden"
     ]
   },
   "photoSpots": {
     "title": "Photo Spots",
     "spots": [
       {
-        "name": "Main Viewpoint",
-        "desc": "Perfect spot to photograph Prague Castle, Charles Bridge and Old Town panorama"
+        "name": "Main viewpoint terrace",
+        "desc": "The classic frame: Vltava bridges and Old Town towers with the castle further south"
       },
       {
-        "name": "Metronome Sculpture",
-        "desc": "Unique modernist sculpture with Prague city scenery as background"
+        "name": "Metronome platform",
+        "desc": "Kinetic sculpture against the skyline; the moving arm adds motion blur after dark"
       },
       {
-        "name": "Beer Garden Terrace",
-        "desc": "Drink beer while photographing city scenery, full of atmosphere"
+        "name": "Beer garden terrace",
+        "desc": "Elevated view with foreground tables — useful when the main wall is busy"
       },
       {
-        "name": "Park Lawn",
-        "desc": "Tree-shaded lawn, suitable for photographing casual and natural style photos"
+        "name": "Hanavský Pavilion",
+        "desc": "Cast-iron architecture as a foreground frame for compressed city shots"
       },
       {
-        "name": "Vltava River View",
-        "desc": "Overlook the meandering Vltava River and riverside scenery from the park's high ground"
+        "name": "Edge of Letenská pláň",
+        "desc": "Wide, empty horizon above the stadium — best for empty skyline compositions"
       }
     ],
     "tips": "Photography Tips",
-    "tipsContent": "Sunset is the golden time for photography; Prague Castle presents charming golden colors under the sunset. Cherry blossoms in spring add a romantic atmosphere to the park. It's recommended to bring a telephoto lens for city panoramas and a wide-angle lens for park scenery. Weekends are crowded; visit on weekdays to capture empty scenes."
+    "tipsContent": "The panorama is wide rather than vertical: a 24–70 mm covers the bridge group, and a short telephoto isolates the castle. Weekday mornings give the cleanest air and the fewest people. The park is inside controlled airspace for the city centre, so do not fly drones here."
   },
-  "hotels": {
-    "title": "Accommodation",
-    "hotels": [
+  "stay": {
+    "title": "Where to stay near Letná Park",
+    "intro": "We do not recommend individual hotels — this is an independent guide and we cannot verify current operators. Instead, these are the areas that work best, with their real trade-offs:",
+    "areas": [
       {
-        "name": "Letná Boutique Hotel",
-        "desc": "Located near the park, walking distance, quiet environment, some rooms have park views",
-        "price": "Price varies by season"
+        "name": "Letná & Holešovice (Prague 7)",
+        "desc": "Residential streets a few minutes from the park, with cafés and the tram at Letenské náměstí. Best if Letná is your main reason to visit."
       },
       {
-        "name": "Old Town Historic Hotel",
-        "desc": "Walk to Letná Park about 20 minutes, superior location, suitable for visiting Prague's main attractions",
-        "price": "Price varies by season"
+        "name": "Malá Strana (Lesser Town)",
+        "desc": "Below the plateau beside the castle approach. Quiet and atmospheric; reaching the park means a 15–20 minute uphill walk."
       },
       {
-        "name": "Vltava Riverside Hotel",
-        "desc": "River view rooms offer beautiful river scenery, walking distance to park about 15 minutes",
-        "price": "Price varies by season"
+        "name": "Old Town (Staré Město)",
+        "desc": "Everything within walking distance, but the busiest option. Two tram stops or a 20–30 minute walk to Letná."
       },
       {
-        "name": "Budget Hostel",
-        "desc": "Good value for money, suitable for backpackers, 10 minutes walk to the park",
-        "price": "Price varies by season"
+        "name": "Along the Metro A corridor",
+        "desc": "Accommodation further out on line A reaches Hradčanská without changes — usually the best value if you are only on the hill for an evening."
       }
     ],
-    "supplements": "Accommodation Tips",
-    "supplementsContent": "Prague accommodation is tight during tourist peak season (summer, Christmas market period); book in advance. Letná area accommodation is more affordable than the Old Town, and the environment is quieter. If you plan to visit Letná Park multiple times, consider staying nearby."
+    "note": "Compare current listings and prices on a booking platform of your choice — availability across Prague changes sharply during summer, Christmas markets and New Year."
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Letná Park Scenery, City Skyline & Beer Garden",
+    "subtitle": "Letná Park terraces, city skyline & beer garden",
     "captions": [
-      "Letná Park Panoramic View",
-      "Prague Castle View",
+      "Letná Park panoramic view",
+      "Prague bridges from the terrace",
       "Letná Beer Garden",
-      "Vltava River Scenery",
-      "Giant Metronome Sculpture",
-      "Park Tree-shaded Path",
-      "City Viewpoint",
-      "Sunset Moment",
-      "Park Lawn Recreation",
-      "Prague Skyline",
-      "Spring Cherry Blossoms",
-      "Children's Playground"
+      "Vltava River scenery",
+      "Metronome sculpture",
+      "Park tree-lined path",
+      "City viewpoint terrace",
+      "Sunset moment",
+      "Park lawn recreation",
+      "Prague skyline",
+      "Spring blossom",
+      "Playground area"
     ],
     "viewAll": "View on Google Maps"
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
-    "moreReviews": "View more reviews on Google Maps",
+    "intro": "Letná Park is rated 4.7 out of 5 on Google Maps, based on 29,657 reviews recorded in October 2026.",
+    "policy": "We do not copy, translate or republish reviews from other platforms, so there is nothing to read here beyond the figure itself. Open Google Maps to see the current rating, the latest reviews and photos from visitors.",
+    "moreReviews": "Check current reviews on Google Maps"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
     "items": [
       {
-        "name": "Ming Z.",
-        "date": "April 2026",
-        "rating": 5,
-        "text": "One of the most worth-visiting places in Prague! The view from the viewpoint is stunning, with Prague Castle and Charles Bridge all in sight. The beer garden atmosphere is also super great, strongly recommend visiting at sunset."
+        "question": "What is the difference between Letná Park, Letenské sady and Letenská pláň?",
+        "answer": "Letenské sady is the Czech name for the terraced park above the Vltava that most visitors call Letná Park. Letenská pláň is the large, flat open ground immediately west of it, used for sport, markets and open-air concerts. They sit next to each other on the same hill and are usually experienced as one area."
       },
       {
-        "name": "Hua L.",
-        "date": "March 2026",
-        "rating": 5,
-        "text": "A free park, but the scenery is not compromised at all. The Metronome sculpture is cool and full of historical sense. Beer garden prices are reasonable, and you can enjoy the scenery while drinking. So pleasant."
+        "question": "Is Letná Park free to enter?",
+        "answer": "Yes. The park, promenades and viewpoint terrace are public and free at any hour of the day or night. You only pay for what you order at the beer garden or kiosks."
       },
       {
-        "name": "Fang W.",
-        "date": "February 2026",
-        "rating": 5,
-        "text": "A photography holy land! Every angle makes a great photo. Recommended to go in the evening; Prague at sunset is incredibly beautiful. The park is large, suitable for slow exploring, allocate half a day."
+        "question": "Which bank of the Vltava is Letná Park on?",
+        "answer": "Letná Park is on the left bank of the Vltava, in Prague 7. It looks across the river towards the Old Town bridges, Petřín Hill and Prague Castle."
       },
       {
-        "name": "Wei C.",
-        "date": "January 2026",
-        "rating": 5,
-        "text": "A hidden gem of Prague. Compared to the overcrowded Old Town, it's much more refreshing here. Locals have picnics on the lawn and sunbathe, full of life atmosphere. Definitely go sit at the beer garden."
+        "question": "How do you get to Letná Park by tram or metro?",
+        "answer": "By tram, take lines 1, 8, 12, 25 or 26 to Letenské náměstí, which is about a four-minute flat walk from the viewpoint terrace. By metro, take line A to Hradčanská and walk uphill through the park for about ten minutes, or use Malostranská for a shorter but steeper climb."
+      },
+      {
+        "question": "Where can I park near Letná Park?",
+        "answer": "Street parking across Letná is mostly resident-priority blue zones with weekday enforcement, so it is not a reliable option. Use the paid car parks near the stadium and Letenské náměstí when they have space, or park at P+R Nádraží Veleslavín or P+R Nádraží Holešovice and finish by metro or tram."
+      },
+      {
+        "question": "What is the Metronome and why is it there?",
+        "answer": "The Metronome is a kinetic sculpture by Vratislav Karel Novák installed in 1991. It stands on the plinth left behind by the Stalin Monument, which was unveiled in 1955 and demolished in 1962. It is not itself a Soviet-era monument."
+      },
+      {
+        "question": "Where is the best viewpoint in Letná Park?",
+        "answer": "The paved terrace above the retaining wall, next to the beer garden, gives the classic panorama of the Vltava bridges. The Metronome platform offers a wider view of the river bend, and the western edge of Letenská pláň has the widest open horizon."
+      },
+      {
+        "question": "Is Letná Park suitable for wheelchairs and pushchairs?",
+        "answer": "Yes, if you arrive by tram at Letenské náměstí: the route to the viewpoint terrace is step-free and mostly level. The approach from Hradčanská metro involves a noticeable climb, and some side paths are unpaved."
+      },
+      {
+        "question": "Are there events on Letenská pláň today?",
+        "answer": "Major concerts and festivals are held on Letenská pláň, but programmes change weekly and we do not maintain a live calendar. Check the events listing published by Prague City Tourism on prague.eu, or open the Letenská pláň entry in Google Maps, before travelling."
       }
     ]
   },
   "mapSection": {
-    "locationTitle": "Location & How to Visit Letna Park in Prague",
+    "locationTitle": "Location & How to Visit Letná Park in Prague",
     "title": "How to Get Here",
-    "subtitle": "Letenská pláň, 170 00 Praha 7, Česká republika",
+    "subtitle": "Letná, 170 00 Prague 7, Czechia — Plus Code 3CW8+94",
     "openMaps": "View on Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Letenská pláň Independent Travel Research Association · All rights reserved.",
+    "rights": "© 2026 Letná Park Independent Visitor Guide · All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": {
       "pragueCity": "Prague City",
-      "pragueTourism": "Prague Tourism",
+      "pragueTourism": "Prague City Tourism",
       "czechRepublic": "Czech Republic",
       "czechEnvironment": "Czech Environment",
       "czechTourism": "Czech Tourism"
     },
-    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions.",
+    "ratingNote": "Google Maps rating snapshot: 4.7 / 5 (29,657 reviews), recorded October 2026. Always check Google Maps for current figures."
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: October 2026",
     "sections": [
       {
         "heading": "1. Information Collection",
@@ -296,7 +376,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: May 2026",
+    "lastUpdated": "Last updated: October 2026",
     "sections": [
       {
         "heading": "1. Acceptance of Terms",
@@ -336,15 +416,15 @@
     "saved": "Preferences saved!"
   },
   "officialManagement": {
-    "title": "About Letenská pláň",
-    "text": "Letenská pláň (Letenské sady / Letná Park) is managed and maintained by the Prague City Parks Administration and is one of Prague's most important city parks.\n\nAs Prague's most representative urban green space, Letenská pláň not only provides citizens with high-quality recreational space but also serves as the best location to enjoy Prague's city scenery. The viewpoint in the park attracts countless visitors to photograph the beautiful scenery of Prague Castle and the Vltava River. Today, Letenská pláň has become an indispensable tourist destination in Prague, carrying the cultural memory of the city and the daily recreational life of its citizens."
+    "title": "Who looks after Letná Park",
+    "text": "Letenské sady is municipal green space in Prague 7, maintained by the city and open to the public free of charge. We are not the operator: this site is an independent visitor guide.\n\nPractical consequences of that status: paths, lawns and terraces have no gate or closing time, events on Letenská pláň require separate permits from the city, and any changes to opening hours, tariffs or closures come from the city or the event organisers rather than from us. Always confirm details on the day of your visit."
   },
   "recommendations": {
     "title": "Discover More",
     "attractionsTitle": "Nearby Attractions",
     "toursTitle": "Recommended Tours & Activities",
     "govtTourismNote": "For official updates and regional tourism information, visit the",
-    "govtTourismLink": "Czech Republic / Prague Official Tourism Portal",
+    "govtTourismLink": "Prague City Tourism official portal",
     "attractions": [
       {"name": "Prague Castle", "url": "https://www.prague.eu/en"},
       {"name": "Charles Bridge", "url": "https://www.prague.eu/en"},

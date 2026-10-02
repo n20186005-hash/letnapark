@@ -21,6 +21,9 @@ export default function BasicInfo() {
             { label: t('country'), value: t('countryValue') },
             { label: t('city'), value: t('cityValue') },
             { label: t('address'), value: t('addressValue') },
+            { label: t('plusCode'), value: t('plusCodeValue') },
+            { label: t('coordinates'), value: t('coordinatesValue') },
+            { label: t('googleRating'), value: t('googleRatingValue') },
           ].map((item, i) => (
             <div key={i} className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-4 py-3 border-b" style={{ borderColor: 'var(--border-color)' }}>
               <span className="text-sm font-medium min-w-[120px]" style={{ color: 'var(--text-muted)' }}>

@@ -1,280 +1,360 @@
 {
   "meta": {
-    "title": "Letenská pláň (Praha) – Průvodce návštěvníka & poloha",
-    "description": "Objevte Letenskou pláň, ikonickou památku v Praze, České republiky. Prohlédněte si polohu na mapě, otevírací dobu, okolní památky jako Pražský hrad a Karlův most a tipy na cestování."
+    "title": "Letenské sady a Letenská pláň Praha: mapa, vyhlídky a doprava",
+    "description": "Letenské sady (Letná Park) v Praze 7: kde je nejlepší vyhlídka, jak se sem dostat tramvají a metrem, kde zaparkovat, historie Metronomu a provozní doba pivní zahrady. Vstup je zdarma.",
+    "siteName": "Průvodce Letnou",
+    "ogImageAlt": "Pohled z Letenských sadů na Vltavu a pražské mosty"
   },
   "header": {
     "home": "Hlavní stránka",
     "gallery": "Galerie",
     "reviews": "Hodnocení",
     "map": "Mapa",
+    "viewpoints": "Vyhlídky",
+    "faq": "Časté dotazy",
+    "parking": "Parkování",
+    "events": "Akce",
     "backToHome": "Zpět na hlavní stránku"
   },
   "hero": {
-    "title": "Letenská pláň (Praha)",
-    "subtitle": "Nejkrásnější městský park v Praze s výhledem na řeku Vltavu a Pražský hrad",
-    "rating": "4.7",
-    "reviewCount": "29 451 hodnocení",
-    "hours": "Otevřeno nonstop",
-    "openMaps": "Zobrazit polohu"
+    "title": "Letenské sady a Letenská pláň v Praze",
+    "subtitle": "Bezplatná vyhlídka vysoko nad Vltavou v Praze 7",
+    "rating": "4,7",
+    "reviewCount": "29 657 hodnocení na Google Maps, ověřeno v říjnu 2026",
+    "hours": "Otevřeno denně, celý den",
+    "openMaps": "Zobrazit polohu",
+    "ratingNote": "Hodnocení i počet recenzí se průběžně mění – aktuální údaje najdete na Google Maps."
   },
   "intro": {
-    "aboutTitle": "O Letenské pláni",
-    "title": "Objevte Letenskou pláň",
-    "breadcrumb": ["Letenská pláň", "Praha", "Hlavní město Praha", "Česká republika"],
-    "equivalenceStatement": "Vítejte na Letenské pláni, široce uznávané jako centrální Letna Park. Nachází se v srdci Prahy, Hlavního města Praha, Česká republika. Toto místo slouží jako primární centrum pro cestovatele navštěvující region.",
-    "description": "Letenská pláň (Letenské sady) je jeden z nejikoničtějších městských parků v Praze, zasazený na Letenském kopci podél východního břehu řeky Vltavy. Vyhlídka v parku nabízí dechberoucí panoramatický výhled na Pražský hrad, mosty Starého Města a klikatou řeku Vltavu, což z ní činí ideální místo pořízení fotografií pražské panoramatu.\n\nPark je zastíněn bujnými stromy a nabízí rozsáhlé trávníky, díky čemuž je oblíbeným místem odpočinku pro pražské občany. Zde naleznete nejen krásnou přírodní scenérii, ale také slavnou Letenskou pivní zahradu, kde si můžete pochutnat na českém pivu a zároveň obdivovat nádherný výhled na město.\n\nV parku je také zachována obří socha Metronomu z doby sovětské, která se stala jedinečnou historickou památkou. Ať už si chcete udělat pohodlnou procházku, zachytit krásné fotografie nebo zažít českou pivní kulturu, Letenská pláň je cílem, který rozhodně stojí za návštěvu.",
+    "aboutTitle": "O Letenských sadech (Letná Park)",
+    "title": "Objevte Letenské sady",
+    "breadcrumb": ["Letenské sady", "Praha 7", "Praha", "Česko"],
+    "equivalenceStatement": "<strong>Letenské sady</strong> – anglicky <strong>Letná Park</strong> – jsou terasovitý park na letenské plošině nad <strong>Vltavou</strong> v <strong>Praze 7</strong>. Západně na ně navazuje otevřená <strong>Letenská pláň</strong>, rovinatá plocha využívaná pro sport, trhy a koncerty pod širým nebem; návštěvníci obvykle vnímají obě části jako jeden celek zvaný Letná.",
+    "description": "Letenské sady leží na hraně letenské plošiny na levém břehu Vltavy a dívají se přes řeku na mosty Starého Města, Petřín a Pražský hrad. Protože park je zhruba 40 metrů nad hladinou, mají jeho terasy onen klasický pražský výhled – bez vstupného, bez výtahu a bez fronty.\n\nSamotná zeleň je síť stinných alejí, otevřených trávníků a promenád: místní piknikují na trávě, běžci využívají rovné cesty po hřbetu a rodiny míří na hřiště u Letenského náměstí. Na východním okraji stojí Letenská pivní zahrada, jejíž terasa sdílí stejné panorama jako vyhlídka.\n\nPlošině dominují dvě stavby. Hanavský pavilon je litinová výstavní budova z roku 1891. Metronom, kinetická socha z roku 1991, stojí na podstavci, který zůstal po Stalinově pomníku zbořeném v roce 1962. Vstup do parku je volný v kteroukoli hodinu, proto je Letná jednou z mála vyhlídek v centru Prahy přístupných i po setmění.",
     "visitGuide": {
       "title": "Tipy na návštěvu",
       "items": [
-        "Jaro a podzim nabízejí příjemné počasí, ideální pro návštěvu",
-        "Vstup do parku je zdarma, nejsou potřeba vstupenky",
-        "Západ slunce na vyhlídce nabízí nejúchvatnější pohled na pražské panoramato",
-        "Pivní zahrada je ideální pro odpočinek odpoledne a zažití české pivní kultury",
-        "Doporučujeme vyhradit si 2–3 hodiny na nenáročnou návštěvu"
+        "Vstup je zdarma a cesty zůstávají otevřené i po západu slunce",
+        "Na vyhlídky a promenádu si vyhraďte 60–90 minut",
+        "Přijďte 30–45 minut před západem slunce, chcete-li místo na terase",
+        "Návštěvu spojte se sestupem na Malou Stranu nebo přes Karlův most",
+        "Jaro a podzim dávají nejčistší výhled, v létě se odpoledne zhoršuje dohlednost"
       ]
     },
     "alsoKnownAs": {
-      "title": "Zvýraznění",
+      "title": "Co lidé hledají",
       "items": [
-        "Nejlepší městská vyhlídka v Praze",
-        "Domov slavné Letenské pivní zahrady",
-        "Obří socha Metronomu z doby sovětské",
-        "Nádherný výhled na řeku Vltavu a Pražský hrad"
+        "Letenské sady / Letná Park – samotný park",
+        "Letenská pláň – navazující otevřená plošina",
+        "Vyhlídka Letná – panorama přes řeku na mosty",
+        "Letenská pivní zahrada – stejný výhled, k sezení",
+        "Metronom Letná – kinetická socha na starém podstavci"
       ]
     },
-    "nearbyLandmarksTitle": "Památky a atrakce v okolí Letna Park",
-    "nearbyLandmarksDescription": "Při návštěvě Letenské planě mohou návštěvníci snadno prozkoumat okolní historické památky a zajímavá místa, včetně Pražského hradu a Karlova mostu."
+    "nearbyLandmarksTitle": "Památky a zajímavosti v okolí Letné",
+    "nearbyLandmarksDescription": "Z <strong>Letenských sadů</strong> sejdete k řece a bez dopravy pokračujete na <strong>Pražský hrad</strong>, <strong>Malou Stranu</strong> a <strong>Karlův most</strong>."
+  },
+  "viewpoints": {
+    "title": "Nejlepší vyhlídky na Letné",
+    "intro": "Čtyři místa na plošině dávají výrazně odlišné fotky. Souřadnice jsou přibližné – před cestou si je ověřte v mapě níže.",
+    "coordsLabel": "Souřadnice",
+    "walkLabel": "Cesta od zastávky",
+    "viewLabel": "Co uvidíte",
+    "timeLabel": "Nejlepší čas",
+    "items": [
+      {
+        "name": "Terasa pivní zahrady",
+        "coords": "cca 50,0966, 14,4064",
+        "walk": "4 minuty po rovině od zastávky Letenské náměstí",
+        "view": "Na jihovýchod přes Vltavu na skupinu staroměstských mostů, za nimi Petřín",
+        "bestTime": "Pozdní odpoledne; o teplých víkendech se rychle plní"
+      },
+      {
+        "name": "Plošina Metronomu",
+        "coords": "cca 50,0944, 14,4062",
+        "walk": "7 minut od Letenského náměstí, po hřbetu dolů",
+        "view": "Široký oblouk řeky a silueta Pražského hradu na jihu",
+        "bestTime": "Modrá hodina, kdy je rameno Metronomu nasvícené"
+      },
+      {
+        "name": "Terasa Hanavského pavilonu",
+        "coords": "cca 50,0955, 14,4074",
+        "view": "Výhled rámovaný stromy – vhodný pro teleobjektiv na hrad",
+        "walk": "5 minut od Letenského náměstí parkem",
+        "bestTime": "Dopoledne, kdy světlo dopadá na mosty"
+      },
+      {
+        "name": "Okraj Letenské pláně",
+        "coords": "cca 50,0975, 14,4040",
+        "walk": "10 minut nahoru od metra Hradčanská",
+        "view": "Otevřený obzor nad střechou stadionu směrem k Hradčanům",
+        "bestTime": "Všední večery bez koncertů, chcete-li prázdné kompozice"
+      }
+    ],
+    "note": "Terasám patří jihovýchod, takže poloha západu slunce se během roku mění: v létě zapadá na severozápadě, tedy za vyhlídkou, zatímco na jaře a na podzim klesá blíže k Pražskému hradu."
   },
   "knowledge": {
-    "historyTitle": "Historie a význam Letenské planě",
-    "title": "Kouzlo Letenské planě",
+    "historyTitle": "Historie a význam Letenských sadů",
+    "title": "Kouzlo Letné",
     "sections": [
       {
         "id": "history",
         "title": "Historické proměny",
-        "content": "Historie oblasti Letná sahá až do několika století zpět a dlouho byla důležitým rekreačním místem pro pražské občany. Během komunistické éry zde stála obří 15metrová socha Stalina, která byla v roce 1962 zbořena. Dnes stojí na původním místě obří socha Metronomu, která se stala jedinečnou historickou památkou oblasti. V průběhu času se Letenská pláň postupně rozvinula v jeden z nejdůležitějších městských parků v Praze, který láká bezpočet návštěvníků, kteří si přejí vychutnat nádhernou pražskou scenérii."
+        "content": "Na Letné bývaly vinice a volná krajina za městskými hradbami; jako veřejná zeleň byla plošina upravena v 19. století. Největší stavbou, která tu kdy stála, byl Stalinův pomník odhalený roku 1955 a odstřelený v roce 1962. V roce 1991 byl na zbylém podstavci vztyčen Metronom sochaře Vratislava Karla Nováka, který měl místo vědomě překrýt něčím pomíjivým. Později se plošina stala i místem velkých shromáždění, včetně demonstrací roku 1989 předcházejících sametové revoluci, a největších koncertů pod širým nebem v Praze."
       },
       {
         "id": "architecture",
         "title": "Krajinné rysy",
-        "content": "Letenská pláň má jedinečnou polohu na kopci, což jí dává výjimečnou geografickou výhodu. Vyhlídka v parku je nejlepším místem k obdivování pražského panoramatu s výhledem na Pražský hrad, Karlův most a skupinu mostů Starého Města. Park je zastíněn bujnými stromy, s velkými trávníky vhodnými pro pikniky a rekreační aktivity. Slavná Letenská pivní zahrada je jednou z největších pivních zahrad ve střední Evropě, kde venkovní sedačky umožňují vychutnat si české pivo a zároveň obdivovat krásnou městskou scenérii."
+        "content": "Letenské sady jsou koncipované k promenádám: stinné aleje vedou po hřbetu plošiny a otevírají se na trávníky a na dlážděnou terasu sledující opěrnou zeď nad řekou. Právě zhruba čtyřicetimetrový rozdíl výšky mezi terasou a hladinou dělá panorama tak působivým – díváte se přes řeku, ne nahoru. Hanavský pavilon, litinová stavba ze Zemské jubilejní výstavy 1891, stojí na východním konci parku a je jeho jedinou výraznější stavbou."
       },
       {
         "id": "culture",
         "title": "Kulturní význam",
-        "content": "Letenská pláň není jen každodenním rekreačním místem pražských občanů, ale také důležitou kulturní památkou. Obří socha Metronomu se stala kolektivní pamětí generace a symbolizuje změny epoch. Každé léto se v parku pořádají různé kulturní akce a hudební festivaly. Toto je vynikající místo pro zažití místního pražského života, kde můžete pozorovat každodenní rekreační životní styl pražských obyvatel a pocítit jedinečnou kulturní atmosféru města."
+        "content": "Pro Pražany není Letná pomník, ale běžný park: běhá se tu, piknikuje, venčí psi, pod Metronomem se jezdí na skejtu a v neděli odpoledne leží na trávě. Právě proto bývá na vyhlídce méně lidí než na Petříně nebo na věži staroměstské radnice, přestože je vstup zdarma a výhled srovnatelný."
       },
       {
         "id": "experience",
         "title": "Základní zážitek",
-        "content": "Na Letenské pláni je nejnezapomenutelnějším zážitkem obdivování pražského západu slunce z vyhlídky. Při západu slunce vypadá Pražský hrad a domy s červenými střechami Starého Města obzvlášť krásně ve zlatém slunečním světle. Pivní zahrada je vynikajícím místem pro zažití české pivní kultury, kde můžete pít a povídat si s místními obyvateli. V parku jsou také dětská hřiště, běžecké stezky a další zařízení, takže je vhodný pro rodinné výlety. Když na jaře rozkvetou třešně a na podzim zčervenají javorové listy, ukazuje park různé okouzlující podoby."
+        "content": "Nejspolehlivější plán je projít se odpoledne z Letenského náměstí na terasu: projdete park, uvidíte postupně několik úhlů na mosty, zastavíte se u Metronomu a pak si vyberete mezi terasou pivní zahrady a otevřeným okrajem Letenské pláně pro západ slunce. Za pěkného počasí trvá celý okruh asi hodinu; se zastávkou na skleničku snadno zaplní celý večer."
       }
     ]
   },
   "basicInfo": {
     "title": "Základní informace",
     "officialName": "Oficiální název",
-    "officialNameValue": "Letenská pláň (Letenské sady)",
-    "type": "Typ památky",
-    "typeValue": "Městský park, vyhlídka, rekreační zelená plocha",
+    "officialNameValue": "Letenské sady (Letná Park)",
+    "type": "Typ místa",
+    "typeValue": "Městský park s veřejnou vyhlídkou",
     "country": "Země",
-    "countryValue": "Česká republika",
+    "countryValue": "Česko",
     "city": "Město",
-    "cityValue": "Praha",
-    "googleRating": "Hodnocení Google",
-    "googleRatingValue": "4.7/5 (29 451)",
+    "cityValue": "Praha 7, Praha",
+    "googleRating": "Hodnocení Google Maps",
+    "googleRatingValue": "4,7 / 5 – aktuální počet ověřte na Google Maps",
     "address": "Adresa",
-    "addressValue": "Letenská pláň, 170 00 Praha 7, Česká republika"
+    "addressValue": "Letná, 170 00 Praha 7, Česko",
+    "plusCode": "Plus kód",
+    "plusCodeValue": "3CW8+94 Praha 7, Česko",
+    "coordinates": "Souřadnice",
+    "coordinatesValue": "50,09599, 14,40576"
   },
   "hours": {
     "title": "Otevírací doba",
-    "outdoor": "Venkovní oblast",
-    "outdoorTime": "Otevřeno nonstop, celoročně",
+    "outdoor": "Park a vyhlídková terasa",
+    "outdoorTime": "Otevřeno 24 hodin denně, celoročně a zdarma",
     "beerGarden": "Letenská pivní zahrada",
-    "beerGardenTime": "Léto 12:00–23:00, zima 12:00–22:00",
-    "tip": "Doporučujeme návštěvu během dne; západ slunce nabízí nejúchvatnější pohledy"
+    "beerGardenTime": "Sezónně, zhruba od jara do podzimu, obvykle od dopoledne do 23:00. V zimě omezeno nebo zavřeno – ověřte na místě.",
+    "tip": "Terasu lze navštívit i po setmění; osvětlení alejí je slabší, vezměte si na odchod svítilnu."
   },
   "tickets": {
     "title": "Ceny vstupenek",
-    "outdoor": "Venkovní oblast parku",
-    "outdoorPrice": "Zdarma, bez vstupného",
+    "outdoor": "Park a vyhlídka",
+    "outdoorPrice": "Zdarma, bez vstupného a bez rezervace",
     "beerGarden": "Letenská pivní zahrada",
-    "beerGardenPrice": "Zdarma vstup, platí se za spotřebu",
-    "note": "Park je zcela zdarma; spotřeba v pivní zahradě dle potřeby"
+    "beerGardenPrice": "Vstup zdarma, platí se pouze za objednané občerstvení",
+    "note": "Na celé plošině se neplatí žádné vstupné. Útrata vzniká jen za občerstvení v kioscích nebo v pivní zahradě."
   },
   "transport": {
     "title": "Jak se sem dostat",
     "airport": "Z letiště",
-    "airportDesc": "Z letiště Václava Havla Praha (PRG) vyjeďte trolejbusem 59 do Nádraží Veleslavín, přestupte na linku metra A ke stanici Hradčanská a poté dojděte pěšky do parku.",
+    "airportDesc": "Z Letiště Václava Havla Praha jeďte trolejbusem 59 na Nádraží Veleslavín, pak metrem A na Hradčanskou a asi 10 minut stoupejte parkem na terasu.",
     "intercity": "Z vlakových stanic",
-    "intercityDesc": "Z hlavního nádraží v Praze (Hlavní nádraží) vyjeďte metrem linkou C do Muzea, přestupte na linku A ke stanici Hradčanská; nebo jeďte tramvají 26 přímo na Letenské náměstí.",
-    "metro": "Metro (doporučené)",
-    "metroDesc": "Vyjeďte metrem linkou A ke stanici Hradčanská a poté dojděte asi 10 minut pěšky k vchodu do parku. Toto je nejpohodlnější dopravní varianta.",
+    "intercityDesc": "Z Prahy hlavního nádraží jeďte metrem C na Muzeum a přestupte na linku A na Hradčanskou, nebo použijte tramvaj 26 přímo na Letenské náměstí, která vás vysadí prakticky v parku.",
+    "metro": "Metro (doporučeno)",
+    "metroDesc": "Metro A na Hradčanskou, pak asi 10 minut do kopce Letenskými sady na vyhlídku. Chcete-li kratší, ale prudší stoupání, použijte Malostranskou na stejné lince.",
     "tram": "Tramvaj",
-    "tramDesc": "Jeďte tramvajovými linkami 1, 8, 12, 25, 26 na zastávku Letenské náměstí a poté dojděte 5 minut pěšky.",
+    "tramDesc": "Tramvaje 1, 8, 12, 25 a 26 zastavují na Letenském náměstí – nejrovinnější přístup, asi 4 minuty od terasy bez stoupání.",
     "bus": "Autobus",
-    "busDesc": "Jeďte autobusem 131 na zastávku Sparta, která je jen pár minut pěšky od vchodu do parku.",
+    "busDesc": "Autobus 131 na zastávku Sparta je nejkratší spojení z Holešovic a od stadionu.",
     "selfDrive": "Auto a parkování",
-    "selfDriveDesc": "Pouliční parkování je omezené (převážně modré zóny). Doporučujeme využít placené parkoviště poblíž Letenského stadionu nebo P+R zařízením mimo centrum města.",
+    "selfDriveDesc": "Auto je nejslabší varianta: většina ulic na Letné spadá do modrých rezidentských zón s kontrolou ve všední dny. Placené alternativy najdete níže.",
     "walking": "Pěšky",
-    "walkingDesc": "Pěšky z Starého Města to trvá asi 20–30 minut, po cestě si můžete vychutnat scenérii řeky Vltavy.",
-    "cycling": "Kolo",
-    "cyclingDesc": "V Praze je k dispozici sdílení městských kol. Jízda do parku je velmi pohodlná a uvnitř parku jsou vyhrazené cyklostezky.",
-    "tips": "Doporučení pro cestování",
-    "tipsDesc": "Doporučujeme kombinovat metro a pěší chůzi; pěšky nahoru od stanice Hradčanská nabízí po cestě krásné výhledy. Léto o víkendech se vyhněte špičce."
+    "walkingDesc": "Ze Starého Města trvá cesta přes řeku nahoru 20–30 minut, z Malé Strany je to 15–20 minut stoupání.",
+    "cycling": "Na kole",
+    "cyclingDesc": "Sdílená kola a cyklostezky podél řeky fungují dobře; stoupání od nábřeží je ale místem strmé.",
+    "tips": "Dopravní tipy",
+    "tipsDesc": "Tramvají na Letenské náměstí se vyhnete každému stoupání. Jízdenku si označte před nástupem – kontroly revizorů jsou časté."
+  },
+  "parking": {
+    "title": "Parkování u Letné",
+    "intro": "Parkování je nejčastější praktická otázka této oblasti a upřímná odpověď zní: nespoléhejte na parkování v ulicích.",
+    "items": [
+      "Většina ulic na Letné a v Holešovicích patří do rezidentských modrých zón kontrolovaných ve všední dny; pro návštěvníky zbývá jen několik vyznačených míst",
+      "Několik placených parkovišť u stadionu a u Letenského náměstí se zaplní už během slunečných víkendů a při akcích na Letenské pláni",
+      "Rychlejší bývá záchytné parkoviště: nechte auto na P+R Nádraží Veleslavín nebo P+R Nádraží Holešovice a dojeďte metrem A či tramvají",
+      "V koncertní dny počítejte s uzavírkami a dopravními opatřeními – v okolí pláně tehdy nenajdete místo"
+    ],
+    "note": "Záměrně neuvádíme ceny ani časové limity: pravidla zón a tarify město průběžně mění. Ověřte si je na značení u místa nebo v oficiální mapě pražských parkovacích zón."
+  },
+  "events": {
+    "title": "Akce na Letenské pláni",
+    "body": "Velké koncerty pod širým nebem, festivaly a sezónní trhy se konají na Letenské pláni, tedy na otevřené ploše navazující na park, nikoli přímo v Letenských sadech. Program se mění každý týden, proto tu neudržujeme vlastní přehled „co je dnes“: ověřte si aktuální kalendář Prague City Tourism na prague.eu, nebo vyhledejte „Letenská pláň“ v Google Maps a otevřete nejnovější aktualizace. Během velkých akcí bývají části pláně uzavřené, tramvaje přeplněné a hluk je slyšet na celém kopci.",
+    "linkText": "Prague City Tourism – oficiální přehled akcí"
   },
   "route": {
     "title": "Doporučená trasa",
-    "overview": "Začněte na stanici metra A Hradčanská a dojděte pěšky nahoru na Letenskou pláň. Nejprve se vydáme na vyhlídku, abychom si vychutnali panoramatický výhled na Pražský hrad a řeku Vltavu, poté se projdeme stromem zastíněnými cestami v parku a navštívíme obří sochu Metronomu. Odpoledne si můžeme odpočinout v Letenské pivní zahradě a ochutnat české pivo. Pokud čas dovolí, můžeme pokračovat do blízkého Pražského hradu nebo Starého Města. Běžná návštěva trvá 2–3 hodiny.",
+    "overview": "Tramvají na Letenské náměstí – vyhnete se stoupání – pak přejděte Letenskými sady na vyhlídkovou terasu, pokračujte po hřbetu k Metronomu, vraťte se kolem Hanavského pavilonu a zakončete večer v pivní zahradě nebo na západním okraji Letenské pláně. Celý okruh měří asi tři kilometry po parkových cestách a trvá 60–90 minut.",
     "stepsTitle": "Kroky trasy",
     "steps": [
-      "Vyrazte z metra Hradčanská a dojděte pěšky nahoru na Letenskou pláň",
-      "Po příjezdu do parku se nejprve vydejte na hlavní vyhlídku a vychutnejte si panoramatický pohled na Pražský hrad",
-      "Projděte se parkovými cestami a vychutnejte si relaxační prostředí zastíněné stromy",
-      "Navštivte obří sochu Metronomu z doby sovětské",
-      "Obědvejte se nebo dejte si odpolední čaj v Letenské pivní zahradě a ochutnejte české pivo",
-      "Odpočiňte si na trávníku a pozorujte rekreační životní styl místních obyvatel",
-      "Před západem slunce se vraťte na vyhlídku a zachyťte krásný západ slunce nad pražským panoramatem",
-      "Pojďte dolů z kopce a pokračujte v objevování Starého Města nebo Pražského hradu"
+      "Přijeďte tramvají na Letenské náměstí a vstupte do parku hlavní alejí",
+      "Dojděte rovnou na vyhlídkovou terasu nad opěrnou zdí – první panorama",
+      "Pokračujte západně po hřbetu dolů k plošině Metronomu",
+      "Vraťte se spodní cestou kolem Hanavského pavilonu",
+      "Zastávka na terase pivní zahrady – stejný výhled, k sezení",
+      "Přejděte na Letenskou pláň pro široký otevřený obzor",
+      "Poslední půlhodinu před západem se vraťte na vyhlídkovou terasu",
+      "Sejděte dolů na Malou Stranu nebo zpět k tramvaji"
     ],
     "supplementsTitle": "Další tipy",
     "supplements": [
-      "V parku jsou značné sklony; noste pohodlné pěší boty",
-      "Letní UV záření je silné; připravte si ochranu před sluncem",
-      "Ceny v pivní zahradě jsou rozumné a přijímají platbu kreditní kartou",
-      "Blízko vyhlídky je větrno; vezměte si bunda",
-      "Veřejné toalety jsou k dispozici v parku, poblíž pivní zahrady"
+      "Trasa je převážně rovinatá; stoupání čeká jen od metra Hradčanská",
+      "Na invalidním vozíku i s kočárkem využijte přístup od Letenského náměstí – k terase vede bezbariérově",
+      "Cesty jsou místem nezpevněné a po dešti blátivé",
+      "Na otevřeném hřbetu fouká i v létě: přibalte vrstvu navíc",
+      "Veřejné toalety jsou u pivní zahrady"
     ]
   },
   "photoSpots": {
-    "title": "Fotografická místa",
+    "title": "Kde fotit",
     "spots": [
       {
         "name": "Hlavní vyhlídka",
-        "desc": "Dokonalé místo k pořízení fotografií Pražského hradu, Karlova mostu a panoramatu Starého Města"
+        "desc": "Klasický záběr: vltavské mosty a staroměstské věže, jižněji hrad"
       },
       {
-        "name": "Socha Metronomu",
-        "desc": "Jedinečná modernistická socha s pražskou městskou scenérií jako pozadím"
+        "name": "Plošina Metronomu",
+        "desc": "Kinetická socha proti horizontu; po setmění lze pohyb paže zvýraznit delším časem"
       },
       {
         "name": "Terasa pivní zahrady",
-        "desc": "Pijte pivo a zároveň fotografujte městskou scenérii, plnou atmosféry"
+        "desc": "Výhled s popředím – užitečné, když je u hlavní zdi plno"
       },
       {
-        "name": "Parkový trávník",
-        "desc": "Zastíněný trávník stromy, vhodný pro pořízení fotografií v pohodlném a přirozeném stylu"
+        "name": "Hanavský pavilon",
+        "desc": "Litinová architektura jako rám pro zhuštěné městské záběry"
       },
       {
-        "name": "Výhled na řeku Vltavu",
-        "desc": "Z vyvýšeného místa v parku nahlédněte na klikatou řeku Vltavu a scenérii podél řeky"
+        "name": "Okraj Letenské pláně",
+        "desc": "Široký prázdný obzor nad stadionem – nejlepší místo pro čisté panorama"
       }
     ],
     "tips": "Fotografické tipy",
-    "tipsContent": "Západ slunce je zlatá doba pro fotografování; Pražský hrad se pod západem slunce představuje v okouzlujících zlatých barvách. Jarní třešně dodávají parku romantickou atmosféru. Doporučujeme si přinést teleobjektiv pro městská panoramata a širokoúhlý objektiv pro krajinu parku. O víkendech je mnoho lidí; navštivte všední dny, abyste zachytili prázdné scény."
+    "tipsContent": "Panorama je spíše široké než vertikální: objektiv 24–70 mm pokryje skupinu mostů, krátký teleobjektiv oddělí hrad. Všední dopoledne dává nejčistší vzduch i nejméně lidí. Park leží v kontrolovaném vzdušném prostoru centra – drony se zde nesmí pouštět."
   },
-  "hotels": {
-    "title": "Ubytování",
-    "hotels": [
+  "stay": {
+    "title": "Kde se ubytovat u Letné",
+    "intro": "Konkrétní hotely nedoporučujeme – jde o nezávislý průvodce a nemůžeme ověřovat aktuální provozovatele. Uvádíme proto oblasti, které fungují nejlépe, i s jejich reálnými nevýhodami:",
+    "areas": [
       {
-        "name": "Butikový hotel Letná",
-        "desc": "Nachází se poblíž parku, pěšky dojdete, klidné prostředí, některé pokoje mají výhled na park",
-        "price": "Cena se liší podle sezóny"
+        "name": "Letná a Holešovice (Praha 7)",
+        "desc": "Obytné ulice pár minut od parku, s kavárnami a tramvají na Letenském náměstí. Nejlepší volba, je-li Letná hlavním cílem."
       },
       {
-        "name": "Historický hotel ve Starém Městě",
-        "desc": "Pěšky do Letenské planě asi 20 minut, výborná poloha, vhodný pro návštěvu hlavních pražských památek",
-        "price": "Cena se liší podle sezóny"
+        "name": "Malá Strana",
+        "desc": "Pod plošinou u hradního přístupu. Klidná a atmosferická; do parku to znamená 15–20 minut stoupání pěšky."
       },
       {
-        "name": "Hotel podél řeky Vltavy",
-        "desc": "Pokoje s výhledem na řeku nabízejí krásnou scénérii, pěšky do parku asi 15 minut",
-        "price": "Cena se liší podle sezóny"
+        "name": "Staré Město",
+        "desc": "Vše v docházkové vzdálenosti, ale nejrušnější varianta. Dvě tramvajové zastávky nebo 20–30 minut chůze na Letnou."
       },
       {
-        "name": "Levný hostel",
-        "desc": "Dobrá poměr cena/výkon, vhodný pro batuláky, 10 minut pěšky do parku",
-        "price": "Cena se liší podle sezóny"
+        "name": "Podél trasy metra A",
+        "desc": "Ubytování dále na lince A dojede na Hradčanskou bez přestupu – často nejlepší poměr cena/výkon, stačí-li vám na kopci jen večer."
       }
     ],
-    "supplements": "Tipy na ubytování",
-    "supplementsContent": "Během hlavní turistické sezóny (léto, období vánočních trhů) je ubytování v Praze vytížené; rezervujte si dopředu. Ubytování v oblasti Letná je cenově dostupnější než ve Starém Městě a prostředí je klidnější. Pokud plánujete navštívit Letenskou pláň opakovaně, zvažte ubytování v okolí."
+    "note": "Nabídky a ceny si porovnejte na libovolné rezervační platformě – obsazenost Prahy se v létě, během vánočních trhů a na Nový rok prudce mění."
   },
   "gallery": {
     "title": "Fotogalerie",
-    "subtitle": "Krajina Letenské planě, městské panoramato a pivní zahrada",
+    "subtitle": "Letenské sady, městské panorama a pivní zahrada",
     "captions": [
-      "Panoramatický pohled na Letenskou pláň",
-      "Pohled na Pražský hrad",
+      "Panorama Letenských sadů",
+      "Pražské mosty z terasy",
       "Letenská pivní zahrada",
-      "Krajina řeky Vltavy",
-      "Obří socha Metronomu",
-      "Zastíněná cesta v parku",
-      "Městská vyhlídka",
+      "Vltava",
+      "Metronom",
+      "Stinná alej v parku",
+      "Vyhlídková terasa",
       "Západ slunce",
-      "Rekreace na parkovém trávníku",
-      "Pražské panoramato",
-      "Jarní rozkvetlé třešně",
+      "Odpočinek na trávníku",
+      "Pražské panorama",
+      "Jarní květy",
       "Dětské hřiště"
     ],
     "viewAll": "Zobrazit na Google Maps"
   },
   "reviews": {
     "title": "Hodnocení návštěvníků",
-    "declaration": "Zpětná vazba návštěvníků je k dispozici prostřednictvím Google Maps (externí odkaz).",
-    "moreReviews": "Zobrazit více hodnocení na Google Maps",
+    "intro": "Letenské sady mají na Google Maps hodnocení 4,7 z 5, při 29 657 recenzích zaznamenaných v říjnu 2026.",
+    "policy": "Recenze z jiných platforem nekopírujeme, nepřekládáme ani znovu nepublikujeme – zde tedy nenajdete nic než samotné číslo. Aktuální hodnocení, nejnovější recenze i fotografie návštěvníků otevřete na Google Maps.",
+    "moreReviews": "Aktuální recenze na Google Maps"
+  },
+  "faq": {
+    "title": "Časté dotazy",
     "items": [
       {
-        "name": "Jan N.",
-        "date": "Duben 2026",
-        "rating": 5,
-        "text": "Jedno z nejpozoruhodnějších míst v Praze! Pohled z vyhlídky je ohromující, Pražský hrad a Karlův most jsou vše v dohledu. Atmosféra v pivní zahradě je také skvělá, velmi doporučuji návštěvu při západu slunce."
+        "question": "Jaký je rozdíl mezi Letenskými sady, Letnou a Letenskou plání?",
+        "answer": "Letenské sady jsou český název terasovitého parku nad Vltavou, který většina návštěvníků označuje jako Letná Park. Letenská pláň je rozlehlá rovinatá plocha hned západně od nich, využívaná pro sport, trhy a koncerty pod širým nebem. Obě části leží na stejném kopci vedle sebe a obvykle se vnímají jako jedno území zvané Letná."
       },
       {
-        "name": "Eva K.",
-        "date": "Březen 2026",
-        "rating": 5,
-        "text": "Zdarma park, ale krajina nijak nekompromisní. Socha Metronomu je skvělá a plná historického citu. Ceny v pivní zahradě jsou rozumné a můžete si vychutnat scenérii při pití. Velmi příjemné."
+        "question": "Je vstup do parku zdarma?",
+        "answer": "Ano. Park, promenády i vyhlídková terasa jsou veřejně přístupné zdarma v kteroukoli denní i noční hodinu. Platíte pouze za občerstvení v pivní zahradě nebo v kioscích."
       },
       {
-        "name": "Petr S.",
-        "date": "Únor 2026",
-        "rating": 5,
-        "text": "Svatá země pro fotografy! Každý úhel dělá skvělou fotografii. Doporučuji jít večer; Praha při západu slunce je neuvěřitelně krásná. Park je velký, vhodný pro pomalé objevování, vyhradil jsem si půl dne."
+        "question": "Na kterém břehu Vltavy park leží?",
+        "answer": "Letenské sady leží na levém břehu Vltavy v Praze 7. Výhled směřuje přes řeku na staroměstské mosty, Petřín a Pražský hrad."
       },
       {
-        "name": "Lucie V.",
-        "date": "Leden 2026",
-        "rating": 5,
-        "text": "Skrytý klenot Prahy. Ve srovnání s přeplněným Starým Městem je zde mnohem příjemnější. Místní obyvatelé mají pikniky na trávníku a opalují se, plná atmosféry života. Rozhodně si sedněte do pivní zahrady."
+        "question": "Jak se sem dostat tramvají nebo metrem?",
+        "answer": "Tramvají linkami 1, 8, 12, 25 nebo 26 na zastávku Letenské náměstí, odkud je to na vyhlídkovou terasu asi čtyři minuty po rovině. Metrem linkou A na Hradčanskou a asi deset minut do kopce parkem, případně na Malostranskou pro kratší, ale prudší stoupání."
+      },
+      {
+        "question": "Kde u Letné zaparkovat?",
+        "answer": "Ulice na Letné jsou převážně rezidentské modré zóny kontrolované ve všední dny, takže na ně nelze spoléhat. Využijte placená parkoviště u stadionu a u Letenského náměstí, jsou-li volná, nebo zaparkujte na P+R Nádraží Veleslavín či P+R Nádraží Holešovice a dokončete cestu metrem nebo tramvají."
+      },
+      {
+        "question": "Co je Metronom a proč tu stojí?",
+        "answer": "Metronom je kinetická socha Vratislava Karla Nováka z roku 1991. Stojí na podstavci, který zůstal po Stalinově pomníku odhaleném roku 1955 a zbořeném roku 1962. Nejde tedy o sovětský pomník."
+      },
+      {
+        "question": "Kde je na Letné nejlepší vyhlídka?",
+        "answer": "Klasické panorama mostů nabízí dlážděná terasa nad opěrnou zdí u pivní zahrady. Plošina u Metronomu má širší pohled na oblouk řeky a západní okraj Letenské pláně nejotevřenější obzor."
+      },
+      {
+        "question": "Je Letná vhodná pro invalidní vozík a kočárek?",
+        "answer": "Ano, dorazíte-li tramvají na Letenské náměstí: cesta na vyhlídkovou terasu je bezbariérová a převážně rovinatá. Od metra Hradčanská je znatelné stoupání a některé boční cesty jsou nezpevněné."
+      },
+      {
+        "question": "Koná se dnes na Letenské pláni nějaká akce?",
+        "answer": "Velké koncerty a festivaly se na pláni konají, ale program se mění každý týden a my neprovozujeme živý kalendář. Ověřte si přehled akcí Prague City Tourism na prague.eu, nebo otevřete zápis Letenské pláně v Google Maps ještě před cestou."
       }
     ]
   },
   "mapSection": {
-    "locationTitle": "Poloha a návštěva Letna Park v Praze",
+    "locationTitle": "Poloha a cesta na Letnou v Praze",
     "title": "Jak se sem dostat",
-    "subtitle": "Letenská pláň, 170 00 Praha 7, Česká republika",
+    "subtitle": "Letná, 170 00 Praha 7, Česko – Plus kód 3CW8+94",
     "openMaps": "Zobrazit na Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Nezávislé cestovní výzkumné sdružení Letenská pláň · Všechna práva vyhrazena.",
+    "rights": "© 2026 Nezávislý návštěvnický průvodce Letnou · Všechna práva vyhrazena.",
     "privacy": "Zásady ochrany osobních údajů",
     "terms": "Podmínky služby",
     "cookies": "Nastavení souborů cookie",
     "officialResourcesTitle": "Související zdroje a informace",
     "officialLinks": {
       "pragueCity": "Hlavní město Praha",
-      "pragueTourism": "Pražská turistika",
+      "pragueTourism": "Prague City Tourism",
       "czechRepublic": "Česká republika",
       "czechEnvironment": "České životní prostředí",
-      "czechTourism": "Česká turistika"
+      "czechTourism": "Czech Tourism"
     },
-    "disclaimer": "Tento web je nezávislý projekt turistických informací třetí strany. Nejsme spojeni s místní vládou ani žádnými jinými oficiálními institucemi."
+    "disclaimer": "Tento web je nezávislý projekt turistických informací třetí strany. Nejsme spojeni s městem ani s žádnou oficiální institucí.",
+    "ratingNote": "Snímek hodnocení Google Maps: 4,7 / 5 (29 657 recenzí), říjen 2026. Aktuální údaje vždy ověřte na Google Maps."
   },
   "privacy": {
     "title": "Zásady ochrany osobních údajů",
-    "lastUpdated": "Poslední aktualizace: květen 2026",
+    "lastUpdated": "Poslední aktualizace: říjen 2026",
     "sections": [
       {
         "heading": "1. Shromažďování informací",
@@ -296,7 +376,7 @@
   },
   "terms": {
     "title": "Podmínky služby",
-    "lastUpdated": "Poslední aktualizace: květen 2026",
+    "lastUpdated": "Poslední aktualizace: říjen 2026",
     "sections": [
       {
         "heading": "1. Přijetí podmínek",
@@ -336,26 +416,26 @@
     "saved": "Preference uloženy!"
   },
   "officialManagement": {
-    "title": "O Letenské pláni",
-    "text": "Letenská pláň (Letenské sady) je spravována a udržována Správou městských parků hlavního města Prahy a je jedním z nejdůležitějších městských parků v Praze.\n\nJako nejreprezentativnější městská zelená plocha v Praze poskytuje Letenská pláň občanům nejen vysoce kvalitní rekreační prostor, ale také slouží jako nejlepší místo k vychutnání si pražské městské scenérie. Vyhlídka v parku láká bezpočet návštěvníků k pořízení fotografií krásné scenérie Pražského hradu a řeky Vltavy. Dnes se Letenská pláň stala nepostradatelným turistickým cílem v Praze, která nese kulturní památku města a každodenní rekreační život jejích občanů."
+    "title": "Kdo o Letnou pečuje",
+    "text": "Letenské sady jsou městská zeleň v Praze 7, udržovaná městem a volně přístupná veřejnosti. Nejsme provozovatelem: tento web je nezávislý návštěvnický průvodce.\n\nZ toho plynou praktické důsledky: park, trávníky i terasy nemají bránu ani zavírací hodinu, akce na Letenské pláni potřebují samostatná povolení města a případné změny otevírací doby, tarifů či uzavírek vydává město nebo pořadatel, nikoli my. Aktuální údaje si vždy ověřte v den návštěvy."
   },
   "recommendations": {
     "title": "Objevte více",
     "attractionsTitle": "Okolní památky",
     "toursTitle": "Doporučené prohlídky a aktivity",
-    "govtTourismNote": "Pro oficiální aktualizace a regionální turistické informace navštivte",
-    "govtTourismLink": "Oficiální turistický portál České republiky / Prahy",
+    "govtTourismNote": "Oficiální aktualizace a regionální turistické informace najdete na",
+    "govtTourismLink": "oficiálním portálu Prague City Tourism",
     "attractions": [
-      {"name": "Pražský hrad", "url": "https://www.prague.eu/en"},
-      {"name": "Karlův most", "url": "https://www.prague.eu/en"},
-      {"name": "Staroměstské náměstí", "url": "https://www.prague.eu/en"},
-      {"name": "Prohlídka řekou Vltavou", "url": "https://www.visitczechia.com/en-uk"}
+      {"name": "Pražský hrad", "url": "https://www.prague.eu/cs"},
+      {"name": "Karlův most", "url": "https://www.prague.eu/cs"},
+      {"name": "Staroměstské náměstí", "url": "https://www.prague.eu/cs"},
+      {"name": "Plavba po Vltavě", "url": "https://www.visitczechia.com/cs-cz"}
     ],
     "tours": [
-      {"name": "Pražská městská pěší prohlídka", "url": "https://www.visitczechia.com/en-uk"},
-      {"name": "Hluboká prohlídka Hradčan", "url": "https://www.prague.eu/en"},
-      {"name": "Prohlídka řekou Vltavou", "url": "https://www.visitczechia.com/en-uk"},
-      {"name": "Zážitek z české pivní kultury", "url": "https://www.visitczechia.com/en-uk"}
+      {"name": "Pěší prohlídka Prahy", "url": "https://www.visitczechia.com/cs-cz"},
+      {"name": "Prohlídka Hradčan", "url": "https://www.prague.eu/cs"},
+      {"name": "Plavba po Vltavě", "url": "https://www.visitczechia.com/cs-cz"},
+      {"name": "Ochutnávka českého piva", "url": "https://www.visitczechia.com/cs-cz"}
     ]
   }
 }

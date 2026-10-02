@@ -42,9 +42,8 @@ export default function Intro() {
           <p
             className="text-base leading-relaxed font-medium"
             style={{ color: 'var(--text-primary)' }}
-          >
-            {t('equivalenceStatement')}
-          </p>
+            dangerouslySetInnerHTML={{ __html: t('equivalenceStatement') }}
+          />
         </div>
 
         <p
@@ -100,9 +99,7 @@ export default function Intro() {
           <h2 id="landmarks-around-letna-park" className="font-display text-2xl sm:text-3xl font-semibold mb-6" style={{ color: 'var(--text-primary)' }}>
             {t('nearbyLandmarksTitle')}
           </h2>
-          <p className="mb-6 text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-            {t('nearbyLandmarksDescription')}
-          </p>
+          <p className="mb-6 text-base leading-relaxed" style={{ color: 'var(--text-secondary)', }} dangerouslySetInnerHTML={{ __html: t('nearbyLandmarksDescription') }} />
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {attractions.slice(0, 4).map((att, i) => (
               <a
